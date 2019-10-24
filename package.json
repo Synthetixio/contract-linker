@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "Site to auto-redirect to the latest SNX contracts",
 	"main": "build.js",
+	"private": true,
 	"dependencies": {
 		"synthetix": "2.11.2-1"
 	},

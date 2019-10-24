@@ -25,8 +25,21 @@ const redirects = [];
 		);
 	}
 });
+
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 
 ['index.html', 'favicon.ico'].forEach(filename =>
 	fs.copyFileSync(path.join(__dirname, 'public', filename), path.join(outputFolder, filename)),
 );
+
+// Get the SNX version
+const { version: snxVersion } = JSON.parse(fs.readFileSync(path.join('node_modules', 'synthetix', 'package.json')));
+
+// Add the last updated part
+const indexFilePath = path.join(outputFolder, 'index.html');
+let indexFile = fs.readFileSync(indexFilePath).toString();
+indexFile = indexFile.replace(
+	'::last-updated::',
+	`<strong><a href="https://github.com/Synthetixio/synthetix/tree/v${snxVersion}" target="_blank">v${snxVersion}</a></strong> (${new Date()})`,
+);
+fs.writeFileSync(indexFilePath, indexFile);

@@ -14,4 +14,8 @@ For testnets (`kovan`, `rinkeby` and `ropsten`), please prefix the testnet in lo
 
 Run the following to get a list of bookmarks you can import into your browser to get useful addresbar keyboard shortcuts (e.g. you could type `feepool kovan` to easily go to the `FeePool` address on `kovan`).
 
-`node generate-bookmarks > bookmarks.html`
+`npm run bookmarks`
+
+You can import this file `bookmarks.html` file into Chrome via:
+
+![image](https://user-images.githubusercontent.com/799038/68231553-4acd7900-ffc9-11e9-9d86-9a8abb1d179a.png)

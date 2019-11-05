@@ -16,7 +16,8 @@
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "node build"
+		"build": "node build",
+		"bookmarks": "node generate-bookmarks > bookmarks.html"
 	},
 	"repository": {
 		"type": "git",

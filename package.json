@@ -1,6 +1,6 @@
 {
 	"name": "synthetix-contracts",
-	"version": "2.13.0-gas-opt",
+	"version": "2.13.0-gas-opt-1",
 	"description": "Site to auto-redirect to the latest SNX contracts",
 	"main": "build.js",
 	"private": true,

@@ -26,6 +26,10 @@ const redirects = [];
 	}
 });
 
+// additional
+redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');
+redirects.push('/Oracle https://etherscan.io/address/0xac1ed4fabbd5204e02950d68b6fc8c446ac95362 302');
+
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 
 ['index.html', 'favicon.ico'].forEach(filename =>

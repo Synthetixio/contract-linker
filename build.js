@@ -27,6 +27,7 @@ const redirects = [];
 });
 
 // additional
+redirects.push('/ProtocolDAO https://etherscan.io/address/0xEb3107117FEAd7de89Cd14D463D340A2E6917769 302');
 redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');
 redirects.push('/Oracle https://etherscan.io/address/0xac1ed4fabbd5204e02950d68b6fc8c446ac95362 302');
 

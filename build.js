@@ -28,8 +28,13 @@ const redirects = [];
 
 // additional
 redirects.push('/ProtocolDAO https://etherscan.io/address/0xEb3107117FEAd7de89Cd14D463D340A2E6917769 302');
-redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');
 redirects.push('/Oracle https://etherscan.io/address/0xac1ed4fabbd5204e02950d68b6fc8c446ac95362 302');
+redirects.push('/Deployer https://etherscan.io/address/0xDe910777C787903F78C89e7a0bf7F4C435cBB1Fe 302');
+redirects.push('/Fee https://etherscan.io/address/0xfeefeefeefeefeefeefeefeefeefeefeefeefeef 302');
+redirects.push('/Unipool https://etherscan.io/contract/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');
+redirects.push('/Curvepool https://etherscan.io/contract/0x13B54E8271B3e45cE71D8f4fC73eA936873a34fC 302');
+redirects.push('/KybersUSD https://etherscan.io/contract/0x4cb01bd05e4652cbb9f312ae604f4549d2bf2c99 302');
+redirects.push('/KyberSNX https://etherscan.io/contract/0xa107dfa919c3f084a7893A260b99586981beb528 302');
 
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 

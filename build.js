@@ -35,6 +35,7 @@ redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa
 redirects.push('/Curvepool https://etherscan.io/address/0x13B54E8271B3e45cE71D8f4fC73eA936873a34fC 302');
 redirects.push('/KybersUSD https://etherscan.io/address/0x4cb01bd05e4652cbb9f312ae604f4549d2bf2c99 302');
 redirects.push('/KyberSNX https://etherscan.io/address/0xa107dfa919c3f084a7893A260b99586981beb528 302');
+redirects.push('/ArbRewarder https://etherscan.io/contract/0xA6B5E74466eDc95D0b6e65c5CBFcA0a676d893a4 302');
 
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 

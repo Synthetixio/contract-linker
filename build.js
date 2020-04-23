@@ -33,6 +33,7 @@ redirects.push('/Deployer https://etherscan.io/address/0xDe910777C787903F78C89e7
 redirects.push('/Fee https://etherscan.io/address/0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF 302');
 redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');
 redirects.push('/Curvepool https://etherscan.io/address/0x13B54E8271B3e45cE71D8f4fC73eA936873a34fC 302');
+redirects.push('/CurveRewards https://etherscan.io/address/0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92 302');
 redirects.push('/KybersUSD https://etherscan.io/address/0x4Cb01bd05E4652CbB9F312aE604f4549D2bf2C99 302');
 redirects.push('/KyberSNX https://etherscan.io/address/0xa107dfa919c3f084a7893A260b99586981beb528 302');
 redirects.push('/ArbRewarder https://etherscan.io/address/0xA6B5E74466eDc95D0b6e65c5CBFcA0a676d893a4 302');

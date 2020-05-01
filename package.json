@@ -1,35 +1,39 @@
 {
-	"name": "synthetix-contracts",
-	"version": "2.21.12",
-	"description": "Site to auto-redirect to the latest SNX contracts",
-	"main": "build.js",
-	"private": true,
-	"dependencies": {
-		"synthetix": "2.21.12"
-	},
-	"devDependencies": {
-		"eslint": "6.5.1",
-		"eslint-config-prettier": "6.4.0",
-		"eslint-plugin-import": "2.18.2",
-		"eslint-plugin-prettier": "3.1.1",
-		"prettier": "1.18.2"
-	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "node build",
-		"bookmarks": "node generate-bookmarks > bookmarks.html"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Synthetixio/contracts.git"
-	},
-	"keywords": [
-		"Synthetix"
-	],
-	"author": "Synthetix",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/Synthetixio/contracts/issues"
-	},
-	"homepage": "https://github.com/Synthetixio/contracts#readme"
+  "name": "synthetix-contracts",
+  "version": "2.21.12",
+  "description": "Site to auto-redirect to the latest SNX contracts",
+  "main": "build.js",
+  "private": true,
+  "dependencies": {
+    "synthetix": "2.21.12",
+    "snyk": "^1.316.1"
+  },
+  "devDependencies": {
+    "eslint": "6.5.1",
+    "eslint-config-prettier": "6.4.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-prettier": "3.1.1",
+    "prettier": "1.18.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build",
+    "bookmarks": "node generate-bookmarks > bookmarks.html",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synthetixio/contracts.git"
+  },
+  "keywords": [
+    "Synthetix"
+  ],
+  "author": "Synthetix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Synthetixio/contracts/issues"
+  },
+  "homepage": "https://github.com/Synthetixio/contracts#readme",
+  "snyk": true
 }

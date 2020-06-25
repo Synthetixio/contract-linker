@@ -58,6 +58,25 @@ redirects.push(
 );
 redirects.push('/StakingRewardssBTCCurve https://etherscan.io/address/0x13C1542A468319688B89E323fe9A3Be3A90EBb27 302');
 
+// LP rewards (legacy links)
+redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');
+redirects.push('/CurveRewards https://etherscan.io/address/0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92 302');
+redirects.push('/iETHRewards https://etherscan.io/address/0xC746bc860781DC90BBFCD381d6A058Dc16357F8d 302');
+// proper links (to remove after https://github.com/Synthetixio/synthetix/pull/523 is merged and a new version of
+// the synthetix module is published)
+redirects.push(
+	'/StakingRewardssETHUniswapV1 https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302',
+);
+redirects.push('/StakingRewardssUSDCurve https://etherscan.io/address/0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92 302');
+redirects.push(
+	'/StakingRewardssXAUUniswapV2 https://etherscan.io/address/0x8302FE9F0C509a996573D3Cc5B0D5D51e4FDD5eC 302',
+);
+redirects.push('/StakingRewardsiETH https://etherscan.io/address/0xC746bc860781DC90BBFCD381d6A058Dc16357F8d 302');
+redirects.push(
+	'/StakingRewardsSNXBalancer https://etherscan.io/address/0xFBaEdde70732540cE2B11A8AC58Eb2dC0D69dE10 302',
+);
+redirects.push('/StakingRewardssBTCCurve https://etherscan.io/address/0x13C1542A468319688B89E323fe9A3Be3A90EBb27 302');
+
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 
 ['index.html', 'favicon.ico'].forEach(filename =>

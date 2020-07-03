@@ -38,6 +38,7 @@ redirects.push('/KybersUSD https://etherscan.io/address/0x4Cb01bd05E4652CbB9F312
 redirects.push('/KyberSNX https://etherscan.io/address/0xa107dfa919c3f084a7893A260b99586981beb528 302');
 redirects.push('/KyberSNXPricing https://etherscan.io/address/0x0d8c194e877Af78Bea7D1A7b00f593AeEd7Be709 302');
 redirects.push('/BalancerSNXUSDC https://etherscan.io/address/0x815F8eF4863451f4Faf34FBc860034812E7377d9 302');
+redirects.push('/BalancerSNXREN https://etherscan.io/address/0x330416C863f2acCE7aF9C9314B422d24c672534a 302');
 
 // LP rewards (legacy links)
 redirects.push('/Unipool https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302');

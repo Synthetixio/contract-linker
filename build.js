@@ -15,16 +15,18 @@ const redirectsFile = path.join(outputFolder, '_redirects');
 
 const redirects = [];
 
-['mainnet', 'kovan', 'rinkeby', 'ropsten'].forEach(network => {
-	const targets = snx.getTarget({ network });
-	for (const { name, address } of Object.values(targets)) {
-		redirects.push(
-			`/${network !== 'mainnet' ? network + '/' : ''}${name} https://${
-				network !== 'mainnet' ? network + '.' : ''
-			}etherscan.io/address/${address} 302`,
-		);
-	}
-});
+snx.networks
+	.filter(network => network !== 'local')
+	.forEach(network => {
+		const targets = snx.getTarget({ network });
+		for (const { name, address } of Object.values(targets)) {
+			redirects.push(
+				`/${network !== 'mainnet' ? network + '/' : ''}${name} https://${
+					network !== 'mainnet' ? network + '.' : ''
+				}etherscan.io/address/${address} 302`,
+			);
+		}
+	});
 
 // additional
 redirects.push('/ProtocolDAO https://etherscan.io/address/0xEb3107117FEAd7de89Cd14D463D340A2E6917769 302');

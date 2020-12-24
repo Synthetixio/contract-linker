@@ -11,7 +11,9 @@ if (!fs.existsSync(outputFolder)) {
 	fs.mkdirSync(outputFolder);
 }
 
-const redirectsFile = path.join(outputFolder, 'vercel.json');
+const redirectFolder = __dirname;
+
+const redirectsFile = path.join(redirectFolder, 'vercel.json');
 
 const redirects = [];
 

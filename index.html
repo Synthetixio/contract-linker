@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="theme-color" content="#000000" />
+		<style type="text/css">
+			body {
+				font-family: 'Helvetica';
+				padding: 0;
+				margin: 0;
+			}
+
+			header {
+				background-color: #0b0816;
+				min-height: 50px;
+			}
+
+			header img {
+				padding: 8px;
+			}
+
+			main {
+				padding: 10px;
+			}
+
+      footer {
+        position: fixed;
+        bottom: 5px;
+        color: #999;
+        font-size: 12px;
+      }
+		</style>
+		<!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+		<title>Synthetix Contracts</title>
+	</head>
+	<body>
+		<header><img src="https://developer.synthetix.io/img/logos/synthetix_blue_logo.png" /></header>
+		<main>
+			<h1>Synthetix Contracts</h1>
+			<p>
+        This is the SNX auto redirection tool. It uses <code>HTTP 302</code> temporary redirects to redirect to the latest version of the Synthetix protocol contracts on Etherscan.
+      </p>
+      <p></p>Please use <code>/ContractName</code> (case-sensitive) to auto-redirect to the latest
+				contract version. E.g. <a href="/Synthetix" target="_blanks">https://contracts.synthetix.io/Synthetix</a> links
+				to the latest underlying.
+      </p>
+
+      <p>For the full list of contract names, please <a href="https://docs.synthetix.io/addresses/" target="_blank">look at our developer docs</a>.</p>
+
+			<p>
+				For testnets (kovan, rinkeby and ropsten), please prefix the testnet in lowercase. E.g.
+				<ul>
+					<li><a href="kovan/Synthetix" target="_blank">https://contracts.synthetix.io/kovan/Synthetix</a></li>
+					<li><a href="kovan/ProxyERC20" target="_blank">https://contracts.synthetix.io/kovan/ProxyERC20</a></li>
+					<li><a href="kovan/SynthsUSD" target="_blank">https://contracts.synthetix.io/kovan/SynthsUSD</a></li>
+					<li><a href="kovan/ProxyERC20sUSD" target="_blank">https://contracts.synthetix.io/kovan/ProxyERC20sUSD</a></li>
+					<li><a href="kovan/Depot" target="_blank">https://contracts.synthetix.io/kovan/Depot</a></li>
+					<li><a href="kovan/EtherCollateral" target="_blank">https://contracts.synthetix.io/kovan/EtherCollateral</a></li>
+				</ul>
+      </p>
+
+      <footer>Last updated <strong><a href="https://github.com/Synthetixio/synthetix/tree/v2.35.2-beta" target="_blank">v2.35.2-beta</a></strong> (Thu Dec 24 2020 11:17:20 GMT+1100 (Australian Eastern Daylight Time))</footer>
+		</main>
+	</body>
+</html>

@@ -5,7 +5,7 @@
 	"main": "build.js",
 	"private": true,
 	"dependencies": {
-		"synthetix": "2.38.0-sccp-77-defi-rebalance"
+		"synthetix": "2.39.0-alpha"
 	},
 	"devDependencies": {
 		"eslint": "6.5.1",

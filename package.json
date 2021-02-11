@@ -1,6 +1,6 @@
 {
 	"name": "synthetix-contracts",
-	"version": "2.38.0-sccp-77-defi-rebalance",
+	"version": "2.39.0-alpha",
 	"description": "Site to auto-redirect to the latest SNX contracts",
 	"main": "build.js",
 	"private": true,

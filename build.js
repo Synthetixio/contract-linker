@@ -52,6 +52,7 @@ redirects.push(
 	'/StakingRewardssETHUniswapV1 https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302',
 );
 redirects.push('/StakingRewardssUSDCurve https://etherscan.io/address/0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92 302');
+
 redirects.push(
 	'/StakingRewardssXAUUniswapV2 https://etherscan.io/address/0x8302FE9F0C509a996573D3Cc5B0D5D51e4FDD5eC 302',
 );
@@ -60,6 +61,9 @@ redirects.push(
 	'/StakingRewardsSNXBalancer https://etherscan.io/address/0xFBaEdde70732540cE2B11A8AC58Eb2dC0D69dE10 302',
 );
 redirects.push('/StakingRewardssBTCCurve https://etherscan.io/address/0x13C1542A468319688B89E323fe9A3Be3A90EBb27 302');
+
+redirects.push('/CouncilDilution https://etherscan.io/address/0x30Ba359FE295E311D24BcCb1502c7a6e89Fb2100 302');
+redirects.push('/SpartanCouncilNFT https://etherscan.io/address/0x023c66b7e13d30a3c46aa433fd2829763d5817c5 302');
 
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 

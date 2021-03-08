@@ -16,8 +16,8 @@ const redirectsFile = path.join(outputFolder, '_redirects');
 const redirects = [];
 
 snx.networks
-	.filter((network) => network !== 'local')
-	.forEach((network) => {
+	.filter(network => network !== 'local')
+	.forEach(network => {
 		const targets = snx.getTarget({ network });
 		for (const { name, address } of Object.values(targets)) {
 			redirects.push(
@@ -63,9 +63,12 @@ redirects.push(
 );
 redirects.push('/StakingRewardssBTCCurve https://etherscan.io/address/0x13C1542A468319688B89E323fe9A3Be3A90EBb27 302');
 
+redirects.push('/CouncilDilution https://etherscan.io/address/0x30Ba359FE295E311D24BcCb1502c7a6e89Fb2100 302');
+redirects.push('/SpartanCouncilNFT https://etherscan.io/address/0x023c66b7e13d30a3c46aa433fd2829763d5817c5 302');
+
 fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
 
-['index.html', 'favicon.ico'].forEach((filename) =>
+['index.html', 'favicon.ico'].forEach(filename =>
 	fs.copyFileSync(path.join(__dirname, 'public', filename), path.join(outputFolder, filename)),
 );
 

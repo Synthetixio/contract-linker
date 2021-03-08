@@ -52,7 +52,6 @@ redirects.push(
 	'/StakingRewardssETHUniswapV1 https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760 302',
 );
 redirects.push('/StakingRewardssUSDCurve https://etherscan.io/address/0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92 302');
-redirects.push('/StakingRewardssEURCurve https://etherscan.io/address/0xc0d8994cd78ee1980885df1a0c5470fc977b5cfe 302');
 
 redirects.push(
 	'/StakingRewardssXAUUniswapV2 https://etherscan.io/address/0x8302FE9F0C509a996573D3Cc5B0D5D51e4FDD5eC 302',

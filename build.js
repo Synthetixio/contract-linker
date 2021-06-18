@@ -30,6 +30,9 @@ snx.networks
 
 // additional
 redirects.push('/ProtocolDAO https://etherscan.io/address/0xEb3107117FEAd7de89Cd14D463D340A2E6917769 302');
+redirects.push('/GrantsDAOV2 https://etherscan.io/address/0x4cf117aaa757dad4a084025c3f23f1b67a037049 302');
+redirects.push('/grantsDAO https://etherscan.io/address/0xeb9a82736cc030fC4A4CD4b53e9B2c67e153208d 302');
+redirects.push('/ambassadorDAO https://etherscan.io/address/0x46abFE1C972fCa43766d6aD70E1c1Df72F4Bb4d1 302');
 redirects.push('/Oracle https://etherscan.io/address/0xaC1ED4Fabbd5204E02950D68b6FC8c446AC95362 302');
 redirects.push('/Deployer https://etherscan.io/address/0xDe910777C787903F78C89e7a0bf7F4C435cBB1Fe 302');
 redirects.push('/Fee https://etherscan.io/address/0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF 302');

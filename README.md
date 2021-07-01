@@ -1,6 +1,6 @@
 # SNX Contracts Auto Redirect
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/295e6a34-6f46-442d-9902-93129e1cf921/deploy-status)](https://app.netlify.com/sites/synthetix-contracts/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aa988a7b-353d-4f71-93c4-037df373d314/deploy-status)](https://app.netlify.com/sites/contract-linker/deploys)
 
 This is the SNX auto redirection tool. It uses `HTTP 302` temporary redirects to redirect to the latest version of the Synthetix protocol contracts on Etherscan. It's here for conveninence for those who often deal with the contracts directly, and for linking to deployed contracts in blog posts, etc.
 

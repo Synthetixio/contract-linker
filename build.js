@@ -23,7 +23,7 @@ const redirects = [];
 
 ['mainnet', 'mainnet-ovm', 'kovan', 'kovan-ovm'].forEach(label => {
 	const [network, useOvm] = label.split('-');
-	const targets = snx.getTarget({ network });
+	const targets = snx.getTarget({ network, useOvm });
 	for (const { name, address } of Object.values(targets)) {
 		redirects.push(
 			`${network !== 'mainnet' ? `/${network}` : ''}${useOvm ? '/ovm' : ''}/${name} ${getExplorerLinkPrefix({

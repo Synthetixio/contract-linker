@@ -1,6 +1,6 @@
 {
 	"name": "synthetix-contracts",
-	"version": "2.46.0-ovm",
+	"version": "2.47.0-ovm",
 	"description": "Site to auto-redirect to the latest SNX contracts",
 	"main": "build.js",
 	"private": true,

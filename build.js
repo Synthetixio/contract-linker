@@ -58,6 +58,9 @@ const thirdPartyAddresses = [
 	'OldCouncilDilution:0x30Ba359FE295E311D24BcCb1502c7a6e89Fb2100',
 	'CouncilDilution:0xFf4e21298E5DCE1398d6fc9857098Eae3cAF1e72',
 	'SpartanCouncilNFT:0x023c66b7e13d30a3c46aa433fd2829763d5817c5',
+	'AmbassadorCouncilNFT:0xf74e828b79636c228683daf5078cc5cececaa37a',
+	'GrantsCouncilNFT:0x04567106db2a4661a5fda9f48719d57b372b77bf',
+	'TreasuryCouncilNFT:0x0c6f93a3ccdb4de4bbab2e3de714ea48bdbaa877',
 ];
 
 additionalAddresses.concat(thirdPartyAddresses).forEach(label => {

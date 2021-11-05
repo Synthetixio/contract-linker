@@ -29,6 +29,7 @@ const redirects = [];
 		additional = [
 			{ name: 'WETHWrapper', address: '0x6202a3b0be1d222971e93aab084c6e584c29db70' },
 			{ name: 'DAIWrapper', address: '0xad32aa4bff8b61b4ae07e3ba437cf81100af0cd7' },
+			{ name: 'LUSDWrapper', address: '0x8a91e92fdd86e734781c38db52a390e1b99fba7c' },
 		];
 	} else if (network === 'mainnet') {
 		additional = [

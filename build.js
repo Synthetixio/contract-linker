@@ -33,6 +33,8 @@ const redirects = [];
 		];
 	} else if (network === 'mainnet') {
 		additional = [
+			{ name: 'LUSDWrapper', address: '0x7c22547779c8aa41bae79e03e8383a0befbcecf0' },
+
 			{ name: 'ProtocolDAO', address: '0xEb3107117FEAd7de89Cd14D463D340A2E6917769' },
 
 			// Grants Council

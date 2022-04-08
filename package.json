@@ -5,7 +5,7 @@
 	"main": "build.js",
 	"private": true,
 	"dependencies": {
-		"synthetix": "2.66.1"
+		"synthetix": "2.66.2"
 	},
 	"devDependencies": {
 		"eslint": "6.5.1",

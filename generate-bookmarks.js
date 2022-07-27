@@ -5,7 +5,7 @@ const path = require('path');
 
 const snx = require('synthetix');
 
-const bookmarks = ['mainnet', 'kovan', 'rinkeby', 'ropsten'].reduce((memo, network) => {
+const bookmarks = ['mainnet', 'goerli', 'rinkeby', 'ropsten'].reduce((memo, network) => {
 	const bookmarksForNetwork = Object.keys(snx.getTarget({ network }));
 
 	const networkNameForInsertion = network === 'mainnet' ? '' : network;

@@ -21,7 +21,7 @@ const redirectsFile = path.join(outputFolder, '_redirects');
 
 const redirects = [];
 
-['mainnet', 'mainnet-ovm', 'kovan', 'kovan-ovm'].forEach(label => {
+['mainnet', 'mainnet-ovm', 'goerli', 'goerli-ovm'].forEach(label => {
 	const [network, useOvm] = label.split('-');
 	const targets = snx.getTarget({ network, useOvm });
 	let additional = [];

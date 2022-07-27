@@ -8,11 +8,11 @@ Please use `/ContractName` (case-sensitive) to auto-redirect to the latest contr
 
 For the full list of contract names, please [look at our developer docs](https://developer.synthetix.io/api/docs/deployed-contracts.html).
 
-For testnets (`kovan`, `rinkeby` and `ropsten`), please prefix the testnet in lowercase. E.g. https://contracts.synthetix.io/kovan/SynthsUSD
+For testnets (`goerli`, `rinkeby` and `ropsten`), please prefix the testnet in lowercase. E.g. https://contracts.synthetix.io/goerli/SynthsUSD
 
 ## Bookmark utility
 
-Run the following to get a list of bookmarks you can import into your browser to get useful addresbar keyboard shortcuts (e.g. you could type `feepool kovan` to easily go to the `FeePool` address on `kovan`).
+Run the following to get a list of bookmarks you can import into your browser to get useful addresbar keyboard shortcuts (e.g. you could type `feepool goerli` to easily go to the `FeePool` address on `goerli`).
 
 `npm run bookmarks`
 

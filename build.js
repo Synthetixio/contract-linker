@@ -12,7 +12,9 @@ if (!fs.existsSync(outputFolder)) {
 }
 
 const getEtherscanLinkPrefix = ({ network, useOvm }) => {
-	return `https://${network !== 'mainnet' ? network + (useOvm ? '-optimism.' : '.') : ''}etherscan.io`;
+	return `https://${
+		network !== 'mainnet' ? network + (useOvm ? '-optimism.' : '.') : useOvm ? 'optimistic.' : ''
+	}etherscan.io`;
 };
 
 const redirectsFile = path.join(outputFolder, '_redirects');

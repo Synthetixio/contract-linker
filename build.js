@@ -11,10 +11,10 @@ if (!fs.existsSync(outputFolder)) {
 	fs.mkdirSync(outputFolder);
 }
 
-const getExplorerLinkPrefix = ({ network, useOvm }) => {
-	return `https://${network !== 'mainnet' ? network + (useOvm ? '-' : '.') : ''}${
-		useOvm ? 'explorer.optimism' : 'etherscan'
-	}.io`;
+const getEtherscanLinkPrefix = ({ network, useOvm }) => {
+	return `https://${
+		network !== 'mainnet' ? network + (useOvm ? '-optimism.' : '.') : useOvm ? 'optimistic.' : ''
+	}etherscan.io`;
 };
 
 const redirectsFile = path.join(outputFolder, '_redirects');
@@ -76,7 +76,7 @@ const redirects = [];
 	}
 	for (const { name, address } of Object.values(targets).concat(additional)) {
 		redirects.push(
-			`${network !== 'mainnet' ? `/${network}` : ''}${useOvm ? '/ovm' : ''}/${name} ${getExplorerLinkPrefix({
+			`${network !== 'mainnet' ? `/${network}` : ''}${useOvm ? '/ovm' : ''}/${name} ${getEtherscanLinkPrefix({
 				network,
 				useOvm,
 			})}/address/${address} 302`,

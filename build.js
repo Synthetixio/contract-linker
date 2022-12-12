@@ -17,7 +17,7 @@ const getEtherscanLinkPrefix = ({ network, useOvm }) => {
 	}etherscan.io`;
 };
 
-const redirectsFile = path.join(outputFolder, 'vercel.json');
+const redirectsFile = path.join(__dirname, 'vercel.json');
 
 const redirects = [];
 

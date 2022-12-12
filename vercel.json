@@ -1,0 +1,2134 @@
+{
+	"redirects": [
+		{
+			"source": "/Depot",
+			"destination": "https://etherscan.io/address/0xE1f64079aDa6Ef07b03982Ca34f1dD7152AA3b86",
+			"statusCode": 302
+		},
+		{
+			"source": "/EscrowChecker",
+			"destination": "https://etherscan.io/address/0x3b399e00AFd8201ACf8A5a0EcCF1C47d8D5E41da",
+			"statusCode": 302
+		},
+		{
+			"source": "/ExchangeRates",
+			"destination": "https://etherscan.io/address/0x648280dD2db772CD018A0CEC72fab5bF8B7683AB",
+			"statusCode": 302
+		},
+		{
+			"source": "/FeePool",
+			"destination": "https://etherscan.io/address/0x3B2f389AeE480238A49E3A9985cd6815370712eB",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxyFeePool",
+			"destination": "https://etherscan.io/address/0xb440DD674e1243644791a4AdfE3A2AbB0A92d309",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysAUD",
+			"destination": "https://etherscan.io/address/0xF48e200EAF9906362BB1442fca31e0835773b8B4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysBTC",
+			"destination": "https://etherscan.io/address/0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysCHF",
+			"destination": "https://etherscan.io/address/0x0F83287FF768D1c1e17a42F44d644D7F22e8ee1d",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysEUR",
+			"destination": "https://etherscan.io/address/0xD71eCFF9342A5Ced620049e616c5035F1dB98620",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysGBP",
+			"destination": "https://etherscan.io/address/0x97fe22E7341a0Cd8Db6F6C021A24Dc8f4DAD855F",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysJPY",
+			"destination": "https://etherscan.io/address/0xF6b1C627e95BFc3c1b4c9B825a032Ff0fBf3e07d",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysUSD",
+			"destination": "https://etherscan.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxyERC20sUSD",
+			"destination": "https://etherscan.io/address/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxySynthetix",
+			"destination": "https://etherscan.io/address/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+			"statusCode": 302
+		},
+		{
+			"source": "/SafeDecimalMath",
+			"destination": "https://etherscan.io/address/0x84D626B2BB4D0F064067e4BF80FCe7055d8F3E7B",
+			"statusCode": 302
+		},
+		{
+			"source": "/Synthetix",
+			"destination": "https://etherscan.io/address/0x883A0E7b329Df75476d9378462522CF2f78Fab3d",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthetixEscrow",
+			"destination": "https://etherscan.io/address/0x971e78e0C92392A4E39099835cF7E6aB535b2227",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthetixState",
+			"destination": "https://etherscan.io/address/0x4b9Ca5607f1fF8019c1C6A3c2f0CC8de622D5B82",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsAUD",
+			"destination": "https://etherscan.io/address/0xfb020CA7f4e8C4a5bBBe060f59a249c6275d2b69",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsBTC",
+			"destination": "https://etherscan.io/address/0x1cB004a8e84a5CE95C1fF895EE603BaC8EC506c7",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsCHF",
+			"destination": "https://etherscan.io/address/0xBb5b03E920cF702De5A3bA9Fc1445aF4B3919c88",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsEUR",
+			"destination": "https://etherscan.io/address/0xa8E31E3C38aDD6052A9407298FAEB8fD393A6cF9",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsGBP",
+			"destination": "https://etherscan.io/address/0xdc883b9d9Ee16f74bE08826E68dF4C9D9d26e8bD",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsJPY",
+			"destination": "https://etherscan.io/address/0xE1cc2332852B2Ac0dA59A1f9D3051829f4eF3c1C",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsUSD",
+			"destination": "https://etherscan.io/address/0x10A5F7D9D65bCc2734763444D4940a31b109275f",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesAUD",
+			"destination": "https://etherscan.io/address/0xCb29D2cf2C65d3Be1d00F07f3441390432D55203",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesBTC",
+			"destination": "https://etherscan.io/address/0x4F6296455F8d754c19821cF1EC8FeBF2cD456E67",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesCHF",
+			"destination": "https://etherscan.io/address/0x52496fE8a4feaEFe14d9433E00D48E6929c13deC",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesEUR",
+			"destination": "https://etherscan.io/address/0x6568D9e750fC44AF00f857885Dfb8281c00529c4",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesGBP",
+			"destination": "https://etherscan.io/address/0x7e88D19A79b291cfE5696d496055f7e57F537A75",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesJPY",
+			"destination": "https://etherscan.io/address/0x4dFACfB15514C21c991ff75Bc7Bf6Fb1F98361ed",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesUSD",
+			"destination": "https://etherscan.io/address/0x05a9CBe762B36632b3594DA4F082340E0e5343e8",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStateSynthetix",
+			"destination": "https://etherscan.io/address/0x5b1b5fEa1b99D83aD479dF0C222F0492385381dD",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesETH",
+			"destination": "https://etherscan.io/address/0x34A5ef81d18F3a305aE9C2d7DF42beef4c79031c",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysETH",
+			"destination": "https://etherscan.io/address/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsETH",
+			"destination": "https://etherscan.io/address/0x5D4C724BFe3a228Ff0E29125Ac1571FE093700a4",
+			"statusCode": 302
+		},
+		{
+			"source": "/RewardEscrow",
+			"destination": "https://etherscan.io/address/0xb671F2210B1F6621A2607EA63E6B2DC3e2464d1F",
+			"statusCode": 302
+		},
+		{
+			"source": "/FeePoolState",
+			"destination": "https://etherscan.io/address/0x11164F6a47C3f8472D19b9aDd516Fc780cb7Ee02",
+			"statusCode": 302
+		},
+		{
+			"source": "/SupplySchedule",
+			"destination": "https://etherscan.io/address/0x8d203C458d536Fe0F97e9f741bC231EaC8cd91cf",
+			"statusCode": 302
+		},
+		{
+			"source": "/DelegateApprovals",
+			"destination": "https://etherscan.io/address/0x15fd6e554874B9e70F832Ed37f231Ac5E142362f",
+			"statusCode": 302
+		},
+		{
+			"source": "/FeePoolEternalStorage",
+			"destination": "https://etherscan.io/address/0xC9DFff5fA5605fd94F8B7927b892F2B57391e8bB",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxyERC20",
+			"destination": "https://etherscan.io/address/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+			"statusCode": 302
+		},
+		{
+			"source": "/RewardsDistribution",
+			"destination": "https://etherscan.io/address/0x29C295B046a73Cde593f21f63091B072d407e3F2",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesLINK",
+			"destination": "https://etherscan.io/address/0x577D4a7395c6A5f46d9981a5F83fa7294926aBB0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysLINK",
+			"destination": "https://etherscan.io/address/0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsLINK",
+			"destination": "https://etherscan.io/address/0xDF69bC4541b86Aa4c5A470B4347E730c38b2c3B2",
+			"statusCode": 302
+		},
+		{
+			"source": "/Math",
+			"destination": "https://etherscan.io/address/0x385e1Eb2FF28F4A637DA2C9971F8CAF5F5b1E77c",
+			"statusCode": 302
+		},
+		{
+			"source": "/AddressResolver",
+			"destination": "https://etherscan.io/address/0x823bE81bbF96BEc0e25CA13170F5AaCb5B79ba83",
+			"statusCode": 302
+		},
+		{
+			"source": "/Exchanger",
+			"destination": "https://etherscan.io/address/0xaeA0065E146FD75Dc24465961a583827284D405a",
+			"statusCode": 302
+		},
+		{
+			"source": "/ExchangeState",
+			"destination": "https://etherscan.io/address/0x545973f28950f50fc6c7F52AAb4Ad214A27C0564",
+			"statusCode": 302
+		},
+		{
+			"source": "/Issuer",
+			"destination": "https://etherscan.io/address/0x5810Fc0E79F4323B2dd3c638914083Fd23a941C0",
+			"statusCode": 302
+		},
+		{
+			"source": "/IssuanceEternalStorage",
+			"destination": "https://etherscan.io/address/0x631E93A0fb06B5eC6d52c0A2D89a3f9672d6Ba64",
+			"statusCode": 302
+		},
+		{
+			"source": "/SystemStatus",
+			"destination": "https://etherscan.io/address/0x696c905F8F8c006cA46e9808fE7e00049507798F",
+			"statusCode": 302
+		},
+		{
+			"source": "/DelegateApprovalsEternalStorage",
+			"destination": "https://etherscan.io/address/0x8F586F063ffbb89b186C8e604FC6614766f9C9d1",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesADA",
+			"destination": "https://etherscan.io/address/0x9956c5019a24fbd5B506AD070b771577bAc5c343",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysADA",
+			"destination": "https://etherscan.io/address/0xe36E2D3c7c34281FA3bC737950a68571736880A1",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsADA",
+			"destination": "https://etherscan.io/address/0x91b82d62Ff322b8e02b86f33E9A99a813437830d",
+			"statusCode": 302
+		},
+		{
+			"source": "/ReadProxyAddressResolver",
+			"destination": "https://etherscan.io/address/0x4E3b31eB0E5CB73641EE1E65E7dCEFe520bA3ef2",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardsSNXBalancer",
+			"destination": "https://etherscan.io/address/0xFBaEdde70732540cE2B11A8AC58Eb2dC0D69dE10",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardsiETH",
+			"destination": "https://etherscan.io/address/0x3f27c540ADaE3a9E8c875C61e3B970b559d7F65d",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardsiBTC",
+			"destination": "https://etherscan.io/address/0x167009dcDA2e49930a71712D956f02cc980DcC1b",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssBTCCurve",
+			"destination": "https://etherscan.io/address/0x13C1542A468319688B89E323fe9A3Be3A90EBb27",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssUSDCurve",
+			"destination": "https://etherscan.io/address/0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssXAUUniswapV2",
+			"destination": "https://etherscan.io/address/0x8302FE9F0C509a996573D3Cc5B0D5D51e4FDD5eC",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssETHUniswapV1",
+			"destination": "https://etherscan.io/address/0x48D7f315feDcaD332F68aafa017c7C158BC54760",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthUtil",
+			"destination": "https://etherscan.io/address/0x81Aee4EA48f678E172640fB5813cf7A96AFaF6C3",
+			"statusCode": 302
+		},
+		{
+			"source": "/DappMaintenance",
+			"destination": "https://etherscan.io/address/0xAb0B2f1Cf979cdbF4676251F35353eC5AF2732Dd",
+			"statusCode": 302
+		},
+		{
+			"source": "/FlexibleStorage",
+			"destination": "https://etherscan.io/address/0xc757aCBa3c0506218b3022266a9DC7F3612d85f5",
+			"statusCode": 302
+		},
+		{
+			"source": "/SystemSettings",
+			"destination": "https://etherscan.io/address/0x202ae40Bed1640b09e2AF7aC5719D129A498B7C8",
+			"statusCode": 302
+		},
+		{
+			"source": "/TradingRewards",
+			"destination": "https://etherscan.io/address/0x62922670313bf6b41C580143d1f6C173C5C20019",
+			"statusCode": 302
+		},
+		{
+			"source": "/DebtCache",
+			"destination": "https://etherscan.io/address/0x1620Aa736939597891C1940CF0d28b82566F9390",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralManagerState",
+			"destination": "https://etherscan.io/address/0x573E5105c4B92416D1544A188F1bf77d442Bb52d",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralManager",
+			"destination": "https://etherscan.io/address/0x067e398605E84F2D0aEEC1806e62768C5110DCc6",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralStateEth",
+			"destination": "https://etherscan.io/address/0xbe5B5a7c198bC156474ed5c33CBf2F3F604F8fF8",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralEth",
+			"destination": "https://etherscan.io/address/0x5c8344bcdC38F1aB5EB5C1d4a35DdEeA522B5DfA",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralStateErc20",
+			"destination": "https://etherscan.io/address/0x8A1A00Df7aA0102497C7591912bA8301e8dB8CdB",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralErc20",
+			"destination": "https://etherscan.io/address/0xaa03aB31b55DceEeF845C8d17890CC61cD98eD04",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralStateShort",
+			"destination": "https://etherscan.io/address/0x13A114a3Fa8A6CE03a0C5488BE9e614d78eDdb0c",
+			"statusCode": 302
+		},
+		{
+			"source": "/CollateralShort",
+			"destination": "https://etherscan.io/address/0x1F2c3a1046c32729862fcB038369696e3273a516",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssEURCurve",
+			"destination": "https://etherscan.io/address/0xc0d8994Cd78eE1980885DF1A0C5470fC977b5cFe",
+			"statusCode": 302
+		},
+		{
+			"source": "/RewardEscrowV2",
+			"destination": "https://etherscan.io/address/0xAc86855865CbF31c8f9FBB68C749AD5Bd72802e3",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthetixBridgeToOptimism",
+			"destination": "https://etherscan.io/address/0x39Ea01a0298C315d149a490E34B59Dbf2EC7e48F",
+			"statusCode": 302
+		},
+		{
+			"source": "/ShortingRewardssETH",
+			"destination": "https://etherscan.io/address/0x12DC1273915A16ab8BD47bA7866B240c253e4c12",
+			"statusCode": 302
+		},
+		{
+			"source": "/ShortingRewardssBTC",
+			"destination": "https://etherscan.io/address/0xCed4055b47cfD0421f3727a35F69CE659c8bAF7a",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesAAVE",
+			"destination": "https://etherscan.io/address/0x9BcED8A8E3Ad81c9b146FFC880358f734A06f7c0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysAAVE",
+			"destination": "https://etherscan.io/address/0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsAAVE",
+			"destination": "https://etherscan.io/address/0x942Eb6e8c029EB22103743C99985aF4F4515a559",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesDOT",
+			"destination": "https://etherscan.io/address/0x73B1a2643507Cd30F11Dfcf2D974f4373E5BC077",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysDOT",
+			"destination": "https://etherscan.io/address/0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsDOT",
+			"destination": "https://etherscan.io/address/0x75A0c1597137AA36B40b6a515D997F9a6c6eefEB",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssTSLABalancer",
+			"destination": "https://etherscan.io/address/0xF0de877F2F9E7A60767f9BA662F10751566AD01c",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesKRW",
+			"destination": "https://etherscan.io/address/0x93B6e9FbBd2c32a0DC3C2B943B7C3CBC2fE23730",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysKRW",
+			"destination": "https://etherscan.io/address/0x269895a3dF4D73b077Fc823dD6dA1B95f72Aaf9B",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsKRW",
+			"destination": "https://etherscan.io/address/0xdAe6C79c46aB3B280Ca28259000695529cbD1339",
+			"statusCode": 302
+		},
+		{
+			"source": "/VirtualSynthMastercopy",
+			"destination": "https://etherscan.io/address/0xf02ce48fD47D7FA1B7a45a0444805d320D035775",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssFBBalancer",
+			"destination": "https://etherscan.io/address/0x26Fa0665660c1D3a3666584669511d3c66Ad37Cb",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssAAPLBalancer",
+			"destination": "https://etherscan.io/address/0x7af65f1740c0eB816A27FD808EaF6Ab09F6Fa646",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssAMZNBalancer",
+			"destination": "https://etherscan.io/address/0xDC338C7544654c7dadFEb7E44076E457963113B0",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssNFLXBalancer",
+			"destination": "https://etherscan.io/address/0x8Ef8cA2AcAaAfEc19fB366C11561718357F780F2",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssGOOGBalancer",
+			"destination": "https://etherscan.io/address/0x6fB7F0E78582746bd01BcB6dfbFE62cA5F4F9175",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssCOINBalancer",
+			"destination": "https://etherscan.io/address/0x1C1D97f6338759AB814a5A717aE359573Ab5D5d4",
+			"statusCode": 302
+		},
+		{
+			"source": "/StakingRewardssMSFTBalancer",
+			"destination": "https://etherscan.io/address/0x9D003Cc298E7Ea141A809C241C0a703176DA3ba3",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthetixBridgeEscrow",
+			"destination": "https://etherscan.io/address/0x5Fd79D46EBA7F351fe49BFF9E87cdeA6c821eF9f",
+			"statusCode": 302
+		},
+		{
+			"source": "/EtherWrapper",
+			"destination": "https://etherscan.io/address/0xC1AAE9d18bBe386B102435a8632C8063d31e747C",
+			"statusCode": 302
+		},
+		{
+			"source": "/NativeEtherWrapper",
+			"destination": "https://etherscan.io/address/0x7A3d898b717e50a96fd8b232E9d15F0A547A7eeb",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthRedeemer",
+			"destination": "https://etherscan.io/address/0xe533139Af961c9747356D947838c98451015e234",
+			"statusCode": 302
+		},
+		{
+			"source": "/WrapperFactory",
+			"destination": "https://etherscan.io/address/0x02f9bC46beD33acdB9cb002fe346734CeF8a9480",
+			"statusCode": 302
+		},
+		{
+			"source": "/OwnerRelayOnEthereum",
+			"destination": "https://etherscan.io/address/0x0e16A6876210841577b233C4165d7B7EdF640b8a",
+			"statusCode": 302
+		},
+		{
+			"source": "/TokenStatesETHBTC",
+			"destination": "https://etherscan.io/address/0x042A7A0022A7695454ac5Be77a4860e50c9683fC",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProxysETHBTC",
+			"destination": "https://etherscan.io/address/0x104eDF1da359506548BFc7c25bA1E28C16a70235",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthsETHBTC",
+			"destination": "https://etherscan.io/address/0x07C1E81C345A7c58d7c24072EFc5D929BD0647AD",
+			"statusCode": 302
+		},
+		{
+			"source": "/SystemSettingsLib",
+			"destination": "https://etherscan.io/address/0x4a39AEf2281ac0D192a9c4783604833bA8F31174",
+			"statusCode": 302
+		},
+		{
+			"source": "/SynthetixDebtShare",
+			"destination": "https://etherscan.io/address/0x89FCb32F29e509cc42d0C8b6f058C993013A843F",
+			"statusCode": 302
+		},
+		{
+			"source": "/SignedSafeDecimalMath",
+			"destination": "https://etherscan.io/address/0x728A2B79Cad691531CC1146eF802617FF50c7095",
+			"statusCode": 302
+		},
+		{
+			"source": "/OneNetAggregatorIssuedSynths",
+			"destination": "https://etherscan.io/address/0xcf1405b18dBCEA2893Abe635c88359C75878B9e1",
+			"statusCode": 302
+		},
+		{
+			"source": "/OneNetAggregatorDebtRatio",
+			"destination": "https://etherscan.io/address/0x977d0DD7eA212E9ca1dcD4Ec15cd7Ceb135fa68D",
+			"statusCode": 302
+		},
+		{
+			"source": "/ExchangeCircuitBreaker",
+			"destination": "https://etherscan.io/address/0xeAcaEd9581294b1b5cfb6B941d4B8B81B2005437",
+			"statusCode": 302
+		},
+		{
+			"source": "/FuturesMarketManager",
+			"destination": "https://etherscan.io/address/0x834Ef6c82D431Ac9A7A6B66325F185b2430780D7",
+			"statusCode": 302
+		},
+		{
+			"source": "/Liquidator",
+			"destination": "https://etherscan.io/address/0x8e9757479D5ad4E7f9d951B60d39F5220b893d6c",
+			"statusCode": 302
+		},
+		{
+			"source": "/LiquidatorRewards",
+			"destination": "https://etherscan.io/address/0xf79603a71144e415730C1A6f57F366E4Ea962C00",
+			"statusCode": 302
+		},
+		{
+			"source": "/OneNetAggregatorsDEFI",
+			"destination": "https://etherscan.io/address/0x646F23085281Dbd006FBFD211FD38d0743884864",
+			"statusCode": 302
+		},
+		{
+			"source": "/CircuitBreaker",
+			"destination": "https://etherscan.io/address/0x9f231dBE53D460f359B2B8CC47574493caA5B7Bf",
+			"statusCode": 302
+		},
+		{
+			"source": "/RewardEscrowV2Storage",
+			"destination": "https://etherscan.io/address/0x182738BD9eE9810BC11f1c81b07Ec6F3691110BB",
+			"statusCode": 302
+		},
+		{
+			"source": "/ExchangeSettlementLib",
+			"destination": "https://etherscan.io/address/0xAa5A3D7F04E15b22Eb3664B56310aA18A3527Ec7",
+			"statusCode": 302
+		},
+		{
+			"source": "/DirectIntegrationManager",
+			"destination": "https://etherscan.io/address/0x5F41718459955217df6A02AA8f5C19614ECfA6E7",
+			"statusCode": 302
+		},
+		{
+			"source": "/LUSDWrapper",
+			"destination": "https://etherscan.io/address/0x7c22547779c8aa41bae79e03e8383a0befbcecf0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ProtocolDAO",
+			"destination": "https://etherscan.io/address/0xEb3107117FEAd7de89Cd14D463D340A2E6917769",
+			"statusCode": 302
+		},
+		{
+			"source": "/GrantsCouncilProposals",
+			"destination": "https://etherscan.io/address/0x4cf117aaa757dad4a084025c3f23f1b67a037049",
+			"statusCode": 302
+		},
+		{
+			"source": "/GrantsCouncilMultisig",
+			"destination": "https://etherscan.io/address/0xeb9a82736cc030fC4A4CD4b53e9B2c67e153208d",
+			"statusCode": 302
+		},
+		{
+			"source": "/GrantsCouncilNFT",
+			"destination": "https://etherscan.io/address/0x04567106db2a4661a5fda9f48719d57b372b77bf",
+			"statusCode": 302
+		},
+		{
+			"source": "/AmbassadorCouncilMultisig",
+			"destination": "https://etherscan.io/address/0x46abFE1C972fCa43766d6aD70E1c1Df72F4Bb4d1",
+			"statusCode": 302
+		},
+		{
+			"source": "/AmbassadorCouncilNFT",
+			"destination": "https://etherscan.io/address/0xf74e828b79636c228683daf5078cc5cececaa37a",
+			"statusCode": 302
+		},
+		{
+			"source": "/TreasuryCouncilMultisig",
+			"destination": "https://etherscan.io/address/0x99f4176ee457afedffcb1839c7ab7a030a5e4a92",
+			"statusCode": 302
+		},
+		{
+			"source": "/TreasuryCouncilNFT",
+			"destination": "https://etherscan.io/address/0x0c6f93a3ccdb4de4bbab2e3de714ea48bdbaa877",
+			"statusCode": 302
+		},
+		{
+			"source": "/OldCouncilDilution",
+			"destination": "https://etherscan.io/address/0x30Ba359FE295E311D24BcCb1502c7a6e89Fb2100",
+			"statusCode": 302
+		},
+		{
+			"source": "/CouncilDilution",
+			"destination": "https://etherscan.io/address/0xFf4e21298E5DCE1398d6fc9857098Eae3cAF1e72",
+			"statusCode": 302
+		},
+		{
+			"source": "/SpartanCouncilNFT",
+			"destination": "https://etherscan.io/address/0x023c66b7e13d30a3c46aa433fd2829763d5817c5",
+			"statusCode": 302
+		},
+		{
+			"source": "/CoreContributorNFT",
+			"destination": "https://etherscan.io/address/0xe5e0cc9e81beac52a0cd1cb22048597eeebc5072",
+			"statusCode": 302
+		},
+		{
+			"source": "/CoreContributorCommitteeNFT",
+			"destination": "https://etherscan.io/address/0xba9984288eba7d3afbd4bddb7b5e54eda4514fcb",
+			"statusCode": 302
+		},
+		{
+			"source": "/Oracle",
+			"destination": "https://etherscan.io/address/0xaC1ED4Fabbd5204E02950D68b6FC8c446AC95362",
+			"statusCode": 302
+		},
+		{
+			"source": "/Deployer",
+			"destination": "https://etherscan.io/address/0xDe910777C787903F78C89e7a0bf7F4C435cBB1Fe",
+			"statusCode": 302
+		},
+		{
+			"source": "/Fee",
+			"destination": "https://etherscan.io/address/0xfeEFEEfeefEeFeefEEFEEfEeFeefEEFeeFEEFEeF",
+			"statusCode": 302
+		},
+		{
+			"source": "/ArbRewarder",
+			"destination": "https://etherscan.io/address/0xA6B5E74466eDc95D0b6e65c5CBFcA0a676d893a4",
+			"statusCode": 302
+		},
+		{
+			"source": "/SnapshotKeeper",
+			"destination": "https://etherscan.io/address/0xAC63b3A69604925DADf2AbD13877d7a4A7113308",
+			"statusCode": 302
+		},
+		{
+			"source": "/MarketCloser",
+			"destination": "https://etherscan.io/address/0xC105Ea57Eb434Fbe44690d7Dec2702e4a2FBFCf7",
+			"statusCode": 302
+		},
+		{
+			"source": "/KybersUSD",
+			"destination": "https://etherscan.io/address/0x4Cb01bd05E4652CbB9F312aE604f4549D2bf2C99",
+			"statusCode": 302
+		},
+		{
+			"source": "/KyberSNX",
+			"destination": "https://etherscan.io/address/0xa107dfa919c3f084a7893A260b99586981beb528",
+			"statusCode": 302
+		},
+		{
+			"source": "/KyberSNXPricing",
+			"destination": "https://etherscan.io/address/0x0d8c194e877Af78Bea7D1A7b00f593AeEd7Be709",
+			"statusCode": 302
+		},
+		{
+			"source": "/BalancerSNXUSDC",
+			"destination": "https://etherscan.io/address/0x815F8eF4863451f4Faf34FBc860034812E7377d9",
+			"statusCode": 302
+		},
+		{
+			"source": "/BalancerSNXREN",
+			"destination": "https://etherscan.io/address/0x330416C863f2acCE7aF9C9314B422d24c672534a",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SafeDecimalMath",
+			"destination": "https://optimistic.etherscan.io/address/0x0142F40c25CE1F1177Ed131101FA19217396cB88",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/Math",
+			"destination": "https://optimistic.etherscan.io/address/0x0B3A73EE0740b3130e40B2A6b5aaf59E7E3Ef74c",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/AddressResolver",
+			"destination": "https://optimistic.etherscan.io/address/0x95A6a3f44a70172E7d50a9e28c85Dfd712756B8C",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ReadProxyAddressResolver",
+			"destination": "https://optimistic.etherscan.io/address/0x1Cb059b7e74fD21665968C908806143E744D5F30",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FlexibleStorage",
+			"destination": "https://optimistic.etherscan.io/address/0x47649022380d182DA8010Ae5d257fea4227b21ff",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SystemSettings",
+			"destination": "https://optimistic.etherscan.io/address/0xE28b785ecc2Cb5FE949f5f31A5aEC3989f764838",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SystemStatus",
+			"destination": "https://optimistic.etherscan.io/address/0xE8c41bE1A167314ABAF2423b72Bf8da826943FFD",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ExchangeRates",
+			"destination": "https://optimistic.etherscan.io/address/0x913bd76F7E1572CC8278CeF2D6b06e2140ca9Ce2",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/RewardEscrowV2",
+			"destination": "https://optimistic.etherscan.io/address/0x6330D5F08f51057F36F46d6751eCDc0c65Ef7E9e",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthetixEscrow",
+			"destination": "https://optimistic.etherscan.io/address/0x06C6D063896ac733673c4474E44d9268f2402A55",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthetixState",
+			"destination": "https://optimistic.etherscan.io/address/0x9770239D49Db97E77fc5Adcb5413654C9e45A510",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxyFeePool",
+			"destination": "https://optimistic.etherscan.io/address/0x4a16A42407AA491564643E1dfc1fd50af29794eF",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DelegateApprovalsEternalStorage",
+			"destination": "https://optimistic.etherscan.io/address/0x02f7fB66B55e6ca476d126d96f14c5732Eeb4363",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DelegateApprovals",
+			"destination": "https://optimistic.etherscan.io/address/0x2A23bc0EA97A89abD91214E8e4d20F02Fe14743f",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FeePoolEternalStorage",
+			"destination": "https://optimistic.etherscan.io/address/0x41140Bf6498a36f2E44eFd49f21dAe3bbb7367c8",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FeePool",
+			"destination": "https://optimistic.etherscan.io/address/0xD3739A5F06747e148E716Dcb7147B9BA15b70fcc",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FeePoolState",
+			"destination": "https://optimistic.etherscan.io/address/0x6e0d26cffc3a63d763F1546f749bf62ebC7d72D8",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/RewardsDistribution",
+			"destination": "https://optimistic.etherscan.io/address/0x5d9187630E99dBce4BcAB8733B76757f7F44aA2e",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxyERC20",
+			"destination": "https://optimistic.etherscan.io/address/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStateSynthetix",
+			"destination": "https://optimistic.etherscan.io/address/0xB9c6CA25452E7f6D0D3340CE1e9B573421afc2eE",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/Synthetix",
+			"destination": "https://optimistic.etherscan.io/address/0x49B35BE7D96888C02F342552aB218d859599aCeb",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxySynthetix",
+			"destination": "https://optimistic.etherscan.io/address/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DebtCache",
+			"destination": "https://optimistic.etherscan.io/address/0x17628A557d1Fc88D1c35989dcBAC3f3e275E2d2B",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/Exchanger",
+			"destination": "https://optimistic.etherscan.io/address/0x24b4b6703a2eE7bA75a4Fc859B606F0bbaeef4EA",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ExchangeState",
+			"destination": "https://optimistic.etherscan.io/address/0x7EF87c14f50CFFe2e73d2C87916C3128c56593A8",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/Issuer",
+			"destination": "https://optimistic.etherscan.io/address/0x59B01789bF268C7C77451D02758621990bB50BBF",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TradingRewards",
+			"destination": "https://optimistic.etherscan.io/address/0x2DcAD1A019fba8301b77810Ae14007cc88ED004B",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/EscrowChecker",
+			"destination": "https://optimistic.etherscan.io/address/0xcdb7D0a946223255d39A6e29B54f08f3291cc118",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesUSD",
+			"destination": "https://optimistic.etherscan.io/address/0x92bAc115d89cA17fd02Ed9357CEcA32842ACB4c2",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysUSD",
+			"destination": "https://optimistic.etherscan.io/address/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxyERC20sUSD",
+			"destination": "https://optimistic.etherscan.io/address/0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsUSD",
+			"destination": "https://optimistic.etherscan.io/address/0xDfA2d3a0d32F870D87f8A0d7AA6b9CdEB7bc5AdB",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/EtherCollateral",
+			"destination": "https://optimistic.etherscan.io/address/0xC8E91c926E04BE1cb94e51c5379d14774D51ae6C",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/EtherCollateralsUSD",
+			"destination": "https://optimistic.etherscan.io/address/0xC0c66470E766AE2026E6695966C56C90741811AA",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthetixBridgeToBase",
+			"destination": "https://optimistic.etherscan.io/address/0x136b1EC699c62b0606854056f02dC7Bb80482d63",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/CollateralManager",
+			"destination": "https://optimistic.etherscan.io/address/0x15E7D4972a3E477878A5867A47617122BE2d1fF0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthUtil",
+			"destination": "https://optimistic.etherscan.io/address/0x87b1481c82913301Fc6c884Ac266a7c430F92cFA",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DappMaintenance",
+			"destination": "https://optimistic.etherscan.io/address/0x54581A23F62D147AC76d454f0b3eF77F9D766058",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/EtherWrapper",
+			"destination": "https://optimistic.etherscan.io/address/0xc3Ee42caBD773A608fa9Ec951982c94BD6F33d59",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesETH",
+			"destination": "https://optimistic.etherscan.io/address/0xEc3665F7e696b0Ad0D04Ae5161b18782D48cd1fd",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysETH",
+			"destination": "https://optimistic.etherscan.io/address/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsETH",
+			"destination": "https://optimistic.etherscan.io/address/0xe9dceA0136FEFC76c4E639Ec60CCE70482E2aCF7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesBTC",
+			"destination": "https://optimistic.etherscan.io/address/0xA9E630952522E3F110322711F424528Af894e307",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysBTC",
+			"destination": "https://optimistic.etherscan.io/address/0x298B9B95708152ff6968aafd889c6586e9169f1D",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsBTC",
+			"destination": "https://optimistic.etherscan.io/address/0x421DEF861D623F7123dfE0878D86E9576cbb3975",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesLINK",
+			"destination": "https://optimistic.etherscan.io/address/0x08a008eEA07d3cC7ca1913EEC3468C10F8F79e6A",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysLINK",
+			"destination": "https://optimistic.etherscan.io/address/0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsLINK",
+			"destination": "https://optimistic.etherscan.io/address/0x0F6877e0Bb54a0739C6173A814B39D5127804123",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthRedeemer",
+			"destination": "https://optimistic.etherscan.io/address/0xA997BD647AEe62Ef03b41e6fBFAdaB43d8E57535",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/CollateralUtil",
+			"destination": "https://optimistic.etherscan.io/address/0xD21969A86Ce5c41aAb2D492a0F802AA3e015cd9A",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/CollateralManagerState",
+			"destination": "https://optimistic.etherscan.io/address/0xbA10526cD8742acC73AedeF5f7Dbb2477Bf86922",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/CollateralShort",
+			"destination": "https://optimistic.etherscan.io/address/0xeb4b5ABcE7310855319440d936cd3aDd77DFA193",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/WrapperFactory",
+			"destination": "https://optimistic.etherscan.io/address/0x27be2EFAd45DeBd732C1EBf5C9F7b49D498D4a93",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/OwnerRelayOnOptimism",
+			"destination": "https://optimistic.etherscan.io/address/0x6d4a64C57612841c2C6745dB2a4E4db34F002D20",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/CollateralEth",
+			"destination": "https://optimistic.etherscan.io/address/0x308AD16ef90fe7caCb85B784A603CB6E71b1A41a",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/StakingRewardssUSDDAIUniswapV3",
+			"destination": "https://optimistic.etherscan.io/address/0x7E11c004d20b502729918687E6E6777b28499085",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/StakingRewardsSNXWETHUniswapV3",
+			"destination": "https://optimistic.etherscan.io/address/0xfD49C7EE330fE060ca66feE33d49206eB96F146D",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SystemSettingsLib",
+			"destination": "https://optimistic.etherscan.io/address/0x6fEd9c8de9886557AA7F4bF7784Cb579d38F833c",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthetixDebtShare",
+			"destination": "https://optimistic.etherscan.io/address/0x45c55BF488D3Cb8640f12F63CbeDC027E8261E79",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesSOL",
+			"destination": "https://optimistic.etherscan.io/address/0x6825Dd6B5b83FBbFF1049A44dc808A10fe9a6719",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysSOL",
+			"destination": "https://optimistic.etherscan.io/address/0x8b2F7Ae8cA8EE8428B6D76dE88326bB413db2766",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsSOL",
+			"destination": "https://optimistic.etherscan.io/address/0x04B50a5992Ea2281E14d43494d656698EA9C24dD",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesAVAX",
+			"destination": "https://optimistic.etherscan.io/address/0x2114d1C571CB541f3416a65f8BccFf9BB9E55Dc5",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysAVAX",
+			"destination": "https://optimistic.etherscan.io/address/0xB2b42B231C68cbb0b4bF2FFEbf57782Fd97D3dA4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsAVAX",
+			"destination": "https://optimistic.etherscan.io/address/0x368A5126fF8e659004b6f9C9F723E15632e2B428",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesMATIC",
+			"destination": "https://optimistic.etherscan.io/address/0x937C9E1d18bEB4F8E1BCB0Dd7a612ca6012517a3",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysMATIC",
+			"destination": "https://optimistic.etherscan.io/address/0x81DDfAc111913d3d5218DEA999216323B7CD6356",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsMATIC",
+			"destination": "https://optimistic.etherscan.io/address/0xf49C194954b6B91855aC06D6C88Be316da60eD96",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesEUR",
+			"destination": "https://optimistic.etherscan.io/address/0x7afF10fc89B162c7aBf77974d190E7959cb456f5",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysEUR",
+			"destination": "https://optimistic.etherscan.io/address/0xFBc4198702E81aE77c06D58f81b629BDf36f0a71",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsEUR",
+			"destination": "https://optimistic.etherscan.io/address/0xdEdb0b04AFF1525bb4B6167F00e61601690c1fF2",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SignedSafeDecimalMath",
+			"destination": "https://optimistic.etherscan.io/address/0x253914cf059f4c3E277c28060C404acFc38FB6e2",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/OneNetAggregatorIssuedSynths",
+			"destination": "https://optimistic.etherscan.io/address/0xe152A2DbcE62E6c0bd387fFd1bb8086F44c5Fd04",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/OneNetAggregatorDebtRatio",
+			"destination": "https://optimistic.etherscan.io/address/0xA408d8e01C8E084B67559226C5B55D6F0B7074e2",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ExchangeCircuitBreaker",
+			"destination": "https://optimistic.etherscan.io/address/0x7322e8F6cB6c6a7B4e6620C486777fcB9Ea052a4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesAAVE",
+			"destination": "https://optimistic.etherscan.io/address/0xAf918f4a72BC34E59dFaF65866feC87947F1f590",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysAAVE",
+			"destination": "https://optimistic.etherscan.io/address/0x00B8D5a5e1Ac97Cb4341c4Bc4367443c8776e8d9",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsAAVE",
+			"destination": "https://optimistic.etherscan.io/address/0x34783A738DdC355cD7c737D4101b20622681332a",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesUNI",
+			"destination": "https://optimistic.etherscan.io/address/0xf32b995Fe4dDf540C848236dB9638d137Aa9b6ff",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysUNI",
+			"destination": "https://optimistic.etherscan.io/address/0xf5a6115Aa582Fd1BEEa22BC93B7dC7a785F60d03",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsUNI",
+			"destination": "https://optimistic.etherscan.io/address/0xcF2E165D2359E3C4dFF1E10eC40dBB5a745223A9",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketManager",
+			"destination": "https://optimistic.etherscan.io/address/0xc704c9AA89d1ca60F67B3075d05fBb92b3B00B3B",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketData",
+			"destination": "https://optimistic.etherscan.io/address/0xC51aeDBEC3aCD26650a7E85B6909E8AEc4d0F19e",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketSettings",
+			"destination": "https://optimistic.etherscan.io/address/0xaE55F163337A2A46733AA66dA9F35299f9A46e9e",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketBTC",
+			"destination": "https://optimistic.etherscan.io/address/0xEe8804d8Ad10b0C3aD1Bd57AC3737242aD24bB95",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketETH",
+			"destination": "https://optimistic.etherscan.io/address/0xf86048DFf23cF130107dfB4e6386f574231a5C65",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketLINK",
+			"destination": "https://optimistic.etherscan.io/address/0x1228c7D8BBc5bC53DB181bD7B1fcE765aa83bF8A",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketSOL",
+			"destination": "https://optimistic.etherscan.io/address/0xcF853f7f8F78B2B801095b66F8ba9c5f04dB1640",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketAVAX",
+			"destination": "https://optimistic.etherscan.io/address/0x4ff54624D5FB61C34c634c3314Ed3BfE4dBB665a",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketAAVE",
+			"destination": "https://optimistic.etherscan.io/address/0x001b7876F567f0b3A639332Ed1e363839c6d85e2",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketUNI",
+			"destination": "https://optimistic.etherscan.io/address/0x5Af0072617F7f2AEB0e314e2faD1DE0231Ba97cD",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketMATIC",
+			"destination": "https://optimistic.etherscan.io/address/0xbCB2D435045E16B059b2130b28BE70b5cA47bFE5",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketXAU",
+			"destination": "https://optimistic.etherscan.io/address/0x4434f56ddBdE28fab08C4AE71970a06B300F8881",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketXAG",
+			"destination": "https://optimistic.etherscan.io/address/0xb147C69BEe211F57290a6cde9d1BAbfD0DCF3Ea3",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketEUR",
+			"destination": "https://optimistic.etherscan.io/address/0xad44873632840144fFC97b2D1de716f6E2cF0366",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/TokenStatesINR",
+			"destination": "https://optimistic.etherscan.io/address/0xfE33ae95A9f0DA8A845aF33516EDc240DCD711d6",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ProxysINR",
+			"destination": "https://optimistic.etherscan.io/address/0xa3A538EA5D5838dC32dde15946ccD74bDd5652fF",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/SynthsINR",
+			"destination": "https://optimistic.etherscan.io/address/0x34c2360ffe5D21542f76e991FFD104f281D4B3fb",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketAPE",
+			"destination": "https://optimistic.etherscan.io/address/0xFe00395ec846240dc693e92AB2Dd720F94765Aa3",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketDYDX",
+			"destination": "https://optimistic.etherscan.io/address/0x10305C1854d6DB8A1060dF60bDF8A8B2981249Cf",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/Liquidator",
+			"destination": "https://optimistic.etherscan.io/address/0xB589Af3f2e3377A9a57da74bE1b6598926479505",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/LiquidatorRewards",
+			"destination": "https://optimistic.etherscan.io/address/0xF4EebDD0704021eF2a6Bbe993fdf93030Cd784b4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/CircuitBreaker",
+			"destination": "https://optimistic.etherscan.io/address/0x803FD1d99C3a6cbcbABAB79C44e108dC2fb67102",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketDebtRatio",
+			"destination": "https://optimistic.etherscan.io/address/0xd325B17d5C9C3f2B6853A760afCF81945b0184d3",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketBNB",
+			"destination": "https://optimistic.etherscan.io/address/0x4Aa0dabd22BC0894975324Bec293443c8538bD08",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketOP",
+			"destination": "https://optimistic.etherscan.io/address/0x9F1C2f0071Bc3b31447AEda9fA3A68d651eB4632",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketXMR",
+			"destination": "https://optimistic.etherscan.io/address/0x3Ed04CEfF4c91872F19b1da35740C0Be9CA21558",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/FuturesMarketDOGE",
+			"destination": "https://optimistic.etherscan.io/address/0x9f231dBE53D460f359B2B8CC47574493caA5B7Bf",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/RewardEscrowV2Storage",
+			"destination": "https://optimistic.etherscan.io/address/0x0c2ED9B23BAF9C5f486e175D406728d3bE46d2A6",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/ExchangeSettlementLib",
+			"destination": "https://optimistic.etherscan.io/address/0xFfa3635f5844eA0F2FcCB03cb936828F508F558b",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DirectIntegrationManager",
+			"destination": "https://optimistic.etherscan.io/address/0x186c50515e6Ee95cEC381d7f6Fe72C67085dBCb4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/WETHWrapper",
+			"destination": "https://optimistic.etherscan.io/address/0x6202a3b0be1d222971e93aab084c6e584c29db70",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DAIWrapper",
+			"destination": "https://optimistic.etherscan.io/address/0xad32aa4bff8b61b4ae07e3ba437cf81100af0cd7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/LUSDWrapper",
+			"destination": "https://optimistic.etherscan.io/address/0x8a91e92fdd86e734781c38db52a390e1b99fba7c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SafeDecimalMath",
+			"destination": "https://goerli.etherscan.io/address/0xb6a200136891Be1C881431320E4092953788C7e0",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/Math",
+			"destination": "https://goerli.etherscan.io/address/0xee5cFeEA2caC5F3A13DB1193c211C7bfA5c03dF0",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SystemSettingsLib",
+			"destination": "https://goerli.etherscan.io/address/0x52C339d07e82d49073f6B85AB033599e0eB644f9",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SignedSafeDecimalMath",
+			"destination": "https://goerli.etherscan.io/address/0xbFe5dA86981e2dB461bd85D31795aD233748EE32",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/AddressResolver",
+			"destination": "https://goerli.etherscan.io/address/0x0C80ff30d1e09135ec60cfe52B2c2EaE1B2f42AB",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ReadProxyAddressResolver",
+			"destination": "https://goerli.etherscan.io/address/0x58719E8Ef4d201541e44505a2ACB3424481d6681",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/OneNetAggregatorIssuedSynths",
+			"destination": "https://goerli.etherscan.io/address/0xBE14c5803Fa245C5e8c70d5050a076Baaa52956c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/OneNetAggregatorDebtRatio",
+			"destination": "https://goerli.etherscan.io/address/0x409b427d6c8227eeCb4079EF74A6F9224297E19E",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/OneNetAggregatorsDEFI",
+			"destination": "https://goerli.etherscan.io/address/0xA43Ba9F2A27F5Fe86c7A8Fe4A75d42F4d2Cf6358",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/FlexibleStorage",
+			"destination": "https://goerli.etherscan.io/address/0x485f9215839a122A3EF7c412B25931C6FeC02A45",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SystemSettings",
+			"destination": "https://goerli.etherscan.io/address/0x063E110E614474Aa1FFB36936aBED4b1d173e5fc",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SystemStatus",
+			"destination": "https://goerli.etherscan.io/address/0x31541f35F6Bd061f4A894fB7eEE565f81EE50df3",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ExchangeRates",
+			"destination": "https://goerli.etherscan.io/address/0xC6fEa2a12a8a9e11232b18DC4d9D525F02180247",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/RewardEscrow",
+			"destination": "https://goerli.etherscan.io/address/0x249BCCbFD33FA6653Db02aE2349444EF25E9B41d",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/RewardEscrowV2",
+			"destination": "https://goerli.etherscan.io/address/0x4300a068B3826aCEFaE7062b411aF467a34Bf3A6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthetixEscrow",
+			"destination": "https://goerli.etherscan.io/address/0xD1F9481B1df0401FEB40667b10f2D0AAEc81cd34",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthetixState",
+			"destination": "https://goerli.etherscan.io/address/0xcbcFB6E2d8517DB83BedB30f79D5197607207A2c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthetixDebtShare",
+			"destination": "https://goerli.etherscan.io/address/0x671C874C43B571878D6a90C5AA27288096eEac21",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ProxyFeePool",
+			"destination": "https://goerli.etherscan.io/address/0x4FC6f7C8Ff4f0D535315F1E6e84897c89367b47E",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/DelegateApprovalsEternalStorage",
+			"destination": "https://goerli.etherscan.io/address/0xbEFd5Fbea0665E94F025d6eC0BdDd6694ce947F4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/DelegateApprovals",
+			"destination": "https://goerli.etherscan.io/address/0xf053f15a780C40A4aBa0E50EB09e3C2dc0Ed4Fae",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/Liquidator",
+			"destination": "https://goerli.etherscan.io/address/0xc656c18721594f9E98B0C805AB9c21Bda5B44f4C",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/LiquidatorRewards",
+			"destination": "https://goerli.etherscan.io/address/0x601A1Cf1a34d9cF0020dCCD361c155Fe54CE24fB",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/FeePoolEternalStorage",
+			"destination": "https://goerli.etherscan.io/address/0x5cB8210159f486dFE8Dc779357ee5A15B8f233bC",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/FeePool",
+			"destination": "https://goerli.etherscan.io/address/0x9D9aAf3ED4E4A708834F148f9b9d0d12Ba0a8034",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/FeePoolState",
+			"destination": "https://goerli.etherscan.io/address/0x7F4a3D2d0e45ECD301Be8a181c3911677c353C85",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/RewardsDistribution",
+			"destination": "https://goerli.etherscan.io/address/0x882eaF70e172b8543145811c5fE169d03740ba9a",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/TokenStateSynthetix",
+			"destination": "https://goerli.etherscan.io/address/0xe842C91A5D2BCE122d89497f171d81067255Ad0d",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ProxySynthetix",
+			"destination": "https://goerli.etherscan.io/address/0x51f44ca59b867E005e48FA573Cb8df83FC7f7597",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/Synthetix",
+			"destination": "https://goerli.etherscan.io/address/0xFC0E6442fC16e1caf52baa31f8043D8BE78AEb0D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/DebtCache",
+			"destination": "https://goerli.etherscan.io/address/0xc30BECA82f1f60DC0e4d3490428525985eef4D74",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/Exchanger",
+			"destination": "https://goerli.etherscan.io/address/0x6Ce575c870ce744e245Ef8400b6d89412C35c328",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ExchangeCircuitBreaker",
+			"destination": "https://goerli.etherscan.io/address/0xf1D0Ee19af243bcbC140A2259290B490E4df92A9",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/VirtualSynthMastercopy",
+			"destination": "https://goerli.etherscan.io/address/0x1f6b96d2e7a5D70777D2A9c52215044FB3f40D37",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ExchangeState",
+			"destination": "https://goerli.etherscan.io/address/0x4023B3Bf1749725584B0a467406C5bb24DA3AC4e",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/Issuer",
+			"destination": "https://goerli.etherscan.io/address/0x35a3F27736955394ee27Ce5348854670CE8D31DF",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/TradingRewards",
+			"destination": "https://goerli.etherscan.io/address/0x6eab29a0904d0fd964AdE1F6c3ab1584E36602aE",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SupplySchedule",
+			"destination": "https://goerli.etherscan.io/address/0x3e5baba6b1467e8c93294F7a4cdA8fDA688E9Bf2",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/EscrowChecker",
+			"destination": "https://goerli.etherscan.io/address/0x2743DB52d841Ea617B0528aB0AfeF58d355f0621",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthetixBridgeToOptimism",
+			"destination": "https://goerli.etherscan.io/address/0x1427Bc44755d9Aa317535B1feE38922760Aa4e65",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthetixBridgeEscrow",
+			"destination": "https://goerli.etherscan.io/address/0xD134Db47DDF5A6feB245452af17cCAf92ee53D3c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/OwnerRelayOnEthereum",
+			"destination": "https://goerli.etherscan.io/address/0xFdB31235cDFe68bfFD1d687AC3A2b31E80eacf0d",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthRedeemer",
+			"destination": "https://goerli.etherscan.io/address/0x32A0BAA5Acec418a85Fd032f0292893B8E4f743B",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/WrapperFactory",
+			"destination": "https://goerli.etherscan.io/address/0xa69768003543eBe5DD91E787278D99FfF9aD6095",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/TokenStatesUSD",
+			"destination": "https://goerli.etherscan.io/address/0x5F0CCaBe97bF838c777F08702E17EC300FF78cD0",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ProxysUSD",
+			"destination": "https://goerli.etherscan.io/address/0xB1f664162c0269A469a699709D37cc5739379dD1",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthsUSD",
+			"destination": "https://goerli.etherscan.io/address/0x8f01E7815583C5Be70e4608Fde3DdE7DcC29592f",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/TokenStatesETH",
+			"destination": "https://goerli.etherscan.io/address/0x6BB584b67Fc54B4C0449625711A341a767f87B94",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ProxysETH",
+			"destination": "https://goerli.etherscan.io/address/0x37216d2366B68Bd8bC64Eb01B83EFA765C21b483",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthsETH",
+			"destination": "https://goerli.etherscan.io/address/0xB7774b79f83191eFF5F159889d1e7A5A242e2244",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/Depot",
+			"destination": "https://goerli.etherscan.io/address/0x9B79D6dFe4650d70f35dbb80f7d1EC0Cf7f823Fd",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/EtherWrapper",
+			"destination": "https://goerli.etherscan.io/address/0x4556b9761b2aC071D1665FAe01faA255a53d1307",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/NativeEtherWrapper",
+			"destination": "https://goerli.etherscan.io/address/0x3b820F825088DB6cD6E118C0c9B39755859932a9",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CollateralUtil",
+			"destination": "https://goerli.etherscan.io/address/0x814AAB41E07D2c3fA53C0c6f3002cD654a4489EE",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CollateralManagerState",
+			"destination": "https://goerli.etherscan.io/address/0x66f040F0ba81eEe22EcAa8a20219E226be7cCBE3",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CollateralManager",
+			"destination": "https://goerli.etherscan.io/address/0x86bfC5Be44f5DE1673824c0d0d1CCEA1306cD40e",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CollateralEth",
+			"destination": "https://goerli.etherscan.io/address/0x7D2bEB18a21468808E16fD1fbe9637eFa98D0777",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CollateralErc20",
+			"destination": "https://goerli.etherscan.io/address/0x0376Bdaf9C97E2e454C83e728154eC621df23958",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CollateralShort",
+			"destination": "https://goerli.etherscan.io/address/0x6d20C286D94a603A1cdE80D1f8e5f44Bc22550C0",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/FuturesMarketManager",
+			"destination": "https://goerli.etherscan.io/address/0x2396748C446125754A12f0D167477eC6eB70EA90",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthUtil",
+			"destination": "https://goerli.etherscan.io/address/0x492395BA6866EF703DA49667fF92Cb8551e7a2D1",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/DappMaintenance",
+			"destination": "https://goerli.etherscan.io/address/0xBDe6A172C2a4475C74DA4eAC3950ef2FDAc626Dc",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/TokenStatesBTC",
+			"destination": "https://goerli.etherscan.io/address/0xA8Fd421326586c440b76aC07B6b48fcD11Dc475e",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ProxysBTC",
+			"destination": "https://goerli.etherscan.io/address/0xf04fD9A2C265E7828832E9EFb01474b686CacD14",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/SynthsBTC",
+			"destination": "https://goerli.etherscan.io/address/0xD511a29AFF50503cCaF476EF9ebdd18Cbab1422c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/CircuitBreaker",
+			"destination": "https://goerli.etherscan.io/address/0x183B4A053CbA70a420E581918008Ef8e65d95E05",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/RewardEscrowV2Storage",
+			"destination": "https://goerli.etherscan.io/address/0xC10cd6Cf0F7D12529433110DaF0fC3Dc14669961",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ExchangeSettlementLib",
+			"destination": "https://goerli.etherscan.io/address/0xA4D8e25579Fc765fF1963dD37132061599C61689",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/DirectIntegrationManager",
+			"destination": "https://goerli.etherscan.io/address/0x79654872398a5C667455058890B29B081Ed47939",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SafeDecimalMath",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x6Bb3B18694A6849654379F040DcB112E07da9DC7",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/Math",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x6fa3D41F37F544c6982693eFEe8B0d4BD88986ed",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SystemSettingsLib",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x6B2554A8349319597D1a8a36DeeD07Fb7c70400d",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SignedSafeDecimalMath",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x6d2eA159C128eC361a9a23b1456Ef0aAD0bec46b",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/AddressResolver",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x1d551351613a28d676BaC1Af157799e201279198",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ReadProxyAddressResolver",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x9Fc84992dF5496797784374B810E04238728743d",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/OneNetAggregatorIssuedSynths",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x904c9424484ba6D5C47d979d8e9Fc5261747D681",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/OneNetAggregatorDebtRatio",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x88e566CF9E29e08AfFB23abe3E9065bD88ACB152",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FlexibleStorage",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x88CAf687f3E1cae053BF0CdbB52EFb1c5dcAbD87",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SystemSettings",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x418B1025f74E8BB889D35e9F37205d587743Ec9b",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SystemStatus",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x9D89fF8C6f3CC22F4BbB859D0F85FB3a4e1FA916",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ExchangeRates",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x061B75475035c20ef2e35E1002Beb90C3c1f24cC",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/RewardEscrowV2",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xF6C92Ad11fa67b7b685aDb435FbE932c049B670c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthetixEscrow",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xFaFd00D0CaA6D5cd5161c5C1F18AaB24942aCAFA",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthetixDebtShare",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3c710172e7f95aCAaDeD243982a90F8F235fF9f1",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ProxyFeePool",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4Fa8252a6C60C891BE35Db51F1F4F5973b88dF98",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/DelegateApprovalsEternalStorage",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x9800812f1d80bbe763DA97C967e746ca7a2d1Ccd",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/DelegateApprovals",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2715DC87A9c9a9A1a02641403205F4F093E1A659",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/Liquidator",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x5e042334B5Bb0434aB2512d16FfcD4Db61F94f18",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/LiquidatorRewards",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x1c6C0a89064206e397E75b11Bcd370E8A8A007B4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FeePoolEternalStorage",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xd01075abdD086006c85840de62544506d7Ab3C79",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FeePool",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x216B2767C7E28f26878e668a6a06d3C364dE0725",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FeePoolState",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0FA904962C4f5427590dD4517697C32363639303",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/RewardsDistribution",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xb12704F8BddA7CF3eBa5F9A463404D4ba5d0e282",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/TokenStateSynthetix",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xB9525040A5B6a2d9e013240397079Fd1320559C4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ProxySynthetix",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2E5ED97596a8368EB9E44B1f3F25B2E813845303",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/Synthetix",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x8cF677281A8Ad57e0db4A8e6B57aE17211f97689",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/DebtCache",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x216EaF79575563A5e13227ad075850cDeb004083",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/Exchanger",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x164724726608622b6e5Fa1aF8932b45A7Bd1a94D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ExchangeCircuitBreaker",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xFdb50671276DbC9D24D68b272B54dE4a87aaCc6c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ExchangeState",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xeD5D12c5A772F32dE608CF84F671C123e132FA80",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/Issuer",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x59bd355dd9A853b345434474341178DbC27dC7a6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/TradingRewards",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x08fb827Ee5A00232aDe347964225Ba4344665eD5",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/EscrowChecker",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x69927Cda9Df863464afAC7DA506928BF3a3ec11f",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthetixBridgeToBase",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xD2b3F0Ea40dB68088415412b0043F37B3088836D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/OwnerRelayOnOptimism",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x55C20ea46766E3E50D4eD1973A88550B2949825c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthRedeemer",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2A8338199D802620B4516a557195a498595d7Eb6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/WrapperFactory",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x507cbddCF4e01396981190F0Ced8Ea37ca25b452",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/TokenStatesUSD",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x43CA5848a2957C0718D240c02A4381A90111591e",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ProxysUSD",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xeBaEAAD9236615542844adC5c149F86C36aD1136",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthsUSD",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xfDa54191F3C0999dbf4c193dEF1B83EDD3e3Ba39",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/TokenStatesETH",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x1557769Cf42EE9e7c8D98CCFE0b454c2DEC125B6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ProxysETH",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x6c3856488e664C6b0380AAEfBFD1c28cd6727eC8",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthsETH",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x7D442107e2AD048C02F06332C918b1F81bd6850d",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/TokenStatesBTC",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x716044850a48DeD57B0581298018D2d8502B1091",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ProxysBTC",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x23c7a77D22Fc1274eCecB703f74699500db106E6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthsBTC",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xFdB84151Bfc76857398BC3efd8d1b32A32c571f2",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/EtherWrapper",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x858A2FF0EAe5fcb0be10df79B741Cff89B77FeCB",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/CollateralUtil",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4BbDe1e5f91e6E8928CdCBF800aC990015387EbA",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/CollateralManagerState",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xA6B255CB2Bd5Ad5f3EaE2D246ec1c2c3F7F79574",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/CollateralManager",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0440f82444C825a0842f50e1c25cb68676d736e3",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/CollateralEth",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x35725C94f3B1aB6BbD533c0B6Df525537d422c5F",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/CollateralShort",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x1a471C12f7efd7adB0065E3c7e457a0c36c13490",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketManager",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xC8440d8e46D3C06beD106C6f2F918F30182bEb06",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketData",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3FAe35Cfea950Fada314589213BABC54A084d5Bf",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketSettings",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0dde87714C3bdACB93bB1d38605aFff209a85998",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketBTC",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2f421752B7C07268DEA60A1B39D67927a5abA2F6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketETH",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0D10c032ad006C98C33A95e59ab3BA2b0849bD59",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/SynthUtil",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xC647DecC9c4f9162dBF77E4367199F5ED0950355",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/DappMaintenance",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4259a2004A1E110A86564ff1441c37F1461F344F",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/CircuitBreaker",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x5cB8210159f486dFE8Dc779357ee5A15B8f233bC",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/RewardEscrowV2Storage",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0C90f734a1c716540549D22509578331061CBff2",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketLINK",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x071171c2289b2Aef8F83eC50650f8eb91DbE44d2",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketSOL",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc6fD6AD47e393a44283Eb2f7a058807C64853aA1",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketAVAX",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc6af1F51b262616BC7DBc3F000Df154709AEe1Bd",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketAAVE",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x1E246e2bc7dc1e2baDa90dC824c71deAaBa65eE2",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketUNI",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x44Af736495544a726ED15CB0EBe2d87a6bCC1832",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketMATIC",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xE89f6f10Dd2e200440198a6b773E16e3c9B1478C",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketXAU",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2f1e8B79E9032b9f43A40d61fa4F446c3eFCf165",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketXAG",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x89F36593eeD8807C43e81Ce7d633e15365274eeF",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketEUR",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xAd4d525C8B6eAE32c3BFE8de5c7f87791690CdB3",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketAPE",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xA7C788d7f5B177AfB3c7B3Af815C678F6181a163",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketDYDX",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x122c1a5E0140bA0E3c7a44418bd83E9e5b049295",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketBNB",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3F66f483b8A66EcBbF3385E5Df6C581c2378d8B7",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketXMR",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0Ee2c2E01072c5Fa866BB3372Fe81698FB3165bA",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/FuturesMarketDOGE",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc006bd42B2ca95Cd640D314dA3DF4c59436C7739",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/ExchangeSettlementLib",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc09f90045F772117634FDF23fFCCd3bEE1abB4AD",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/DirectIntegrationManager",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xbDC73F42943bAce3A4eEE280650e80531Cc6a38C",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketData",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x72EBE50eAE6C73124F07E85138b751eb4981811F",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketSettings",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xCC3bc93Be00FaAfD25eca9be262b9b9843e15dcA",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ExchangeRate",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0E2B8a6f4b7914bF536cBb51D8Ec97FdD3c93539",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xd5844EA3701a4507C27ebc5EBA733E1Aa2915B31",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xb82C1c9491A529F7AB9B4A6d42537eDDe28d83F3",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xDfBb25c54a2bbe605BFD452f9846ae152486dae9",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0a3fbB025aBB1a49E7a1b3A60D95b5bD584FBEF2",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedOrderBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x8F5c81b0A6dd27241b6eEF845F359AcB5D16C808",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2OffchainDelayedOrderBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xf7968E6e5ddE5682534992398d7f392709b79C8b",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x111BAbcdd66b1B60A20152a2D3D06d36F8B5703c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3ad86e158377264F5d4C7625798496D279e7E33a",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x8bDfB37555C1F87195F475cAf2A7e9A769717Ff6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x7f778ae58281B035ED56f02C1f931129d5B94BEC",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedOrderETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xbe55a54dE7500992EEA1db09CD854893a7A2a221",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2OffchainDelayedOrderETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x770F4Df1DE337FF4dEE79C82E954eb6f70961e57",
+			"statusCode": 302
+		}
+	]
+}

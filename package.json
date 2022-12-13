@@ -12,12 +12,14 @@
 		"eslint-config-prettier": "6.4.0",
 		"eslint-plugin-import": "2.18.2",
 		"eslint-plugin-prettier": "3.1.1",
+		"husky": "8.0.2",
 		"prettier": "1.18.2"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "node build",
-		"bookmarks": "node generate-bookmarks > bookmarks.html"
+		"bookmarks": "node generate-bookmarks > bookmarks.html",
+		"prepare": "husky install"
 	},
 	"repository": {
 		"type": "git",

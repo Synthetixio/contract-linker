@@ -17,7 +17,7 @@ const getEtherscanLinkPrefix = ({ network, useOvm }) => {
 	}etherscan.io`;
 };
 
-const redirectsFile = path.join(outputFolder, '_redirects');
+const redirectsFile = path.join(__dirname, 'vercel.json');
 
 const redirects = [];
 
@@ -74,17 +74,21 @@ const redirects = [];
 			{ name: 'BalancerSNXREN', address: '0x330416C863f2acCE7aF9C9314B422d24c672534a' },
 		];
 	}
+
 	for (const { name, address } of Object.values(targets).concat(additional)) {
 		redirects.push(
-			`${network !== 'mainnet' ? `/${network}` : ''}${useOvm ? '/ovm' : ''}/${name} ${getEtherscanLinkPrefix({
+			`\t\t{\n\t\t\t"source": "${network !== 'mainnet' ? `/${network}` : ''}${
+				useOvm ? '/ovm' : ''
+			}/${name}",\n\t\t\t"destination": "${getEtherscanLinkPrefix({
 				network,
 				useOvm,
-			})}/address/${address} 302`,
+			})}/address/${address}",\n\t\t\t"statusCode": 302\n\t\t},`,
 		);
 	}
 });
 
-fs.writeFileSync(redirectsFile, redirects.join('\n') + '\n');
+const jsonContent = `{\n\t"redirects": [\n${redirects.join('\n') + '\n'}\t]\n}\n`.replace('\t\t},\n\t]', '\t\t}\n\t]');
+fs.writeFileSync(redirectsFile, `${jsonContent}`);
 
 ['index.html', 'favicon.ico'].forEach(filename =>
 	fs.copyFileSync(path.join(__dirname, 'public', filename), path.join(outputFolder, filename)),

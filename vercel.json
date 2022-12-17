@@ -1617,7 +1617,7 @@
 		},
 		{
 			"source": "/goerli/FuturesMarketManager",
-			"destination": "https://goerli.etherscan.io/address/0x2396748C446125754A12f0D167477eC6eB70EA90",
+			"destination": "https://goerli.etherscan.io/address/0x6928767b677aBfd34aEF4ac67E9c275125B95907",
 			"statusCode": 302
 		},
 		{
@@ -1932,7 +1932,7 @@
 		},
 		{
 			"source": "/goerli/ovm/FuturesMarketManager",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xC8440d8e46D3C06beD106C6f2F918F30182bEb06",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc429dd84c9a9a7c786764c7dcaF31e30bd35BcdF",
 			"statusCode": 302
 		},
 		{
@@ -2057,17 +2057,17 @@
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2MarketData",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x72EBE50eAE6C73124F07E85138b751eb4981811F",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc880Cd434eD843398a2E20C8C617E6a9C2690A23",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2MarketSettings",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xCC3bc93Be00FaAfD25eca9be262b9b9843e15dcA",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x11CBE5740e145B25743C328c7605c6372dF3b45f",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2ExchangeRate",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x0E2B8a6f4b7914bF536cBb51D8Ec97FdD3c93539",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x59b9D61F28C6D296a917f8171e42C6fcE5C1Fbea",
 			"statusCode": 302
 		},
 		{
@@ -2082,22 +2082,22 @@
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2MarketBTCPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xDfBb25c54a2bbe605BFD452f9846ae152486dae9",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x86946c06ec7451F433d9c3D01Fa0b76cb83043BB",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2MarketViewsBTCPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x0a3fbB025aBB1a49E7a1b3A60D95b5bD584FBEF2",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x35E9b5C094887B82b4230de1f0aE355964831933",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2DelayedOrderBTCPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x8F5c81b0A6dd27241b6eEF845F359AcB5D16C808",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x42D0e43c4F19B6e88FC40dE5bB1C28730cD9c43C",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2OffchainDelayedOrderBTCPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xf7968E6e5ddE5682534992398d7f392709b79C8b",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x9D31529A79dF07a723Cdc4E7e11FaB42decc4043",
 			"statusCode": 302
 		},
 		{
@@ -2112,22 +2112,22 @@
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2MarketETHPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x8bDfB37555C1F87195F475cAf2A7e9A769717Ff6",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4D657c0d33739D322cDB439D65d2D56E8928d3Ea",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2MarketViewsETHPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x7f778ae58281B035ED56f02C1f931129d5B94BEC",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xDD0C5Fb003d152d99bA68C2C2b7D432b832a43d5",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2DelayedOrderETHPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xbe55a54dE7500992EEA1db09CD854893a7A2a221",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xF64b4E28F4B5bF83905694016b2496f5E4e7943b",
 			"statusCode": 302
 		},
 		{
 			"source": "/goerli/ovm/PerpsV2OffchainDelayedOrderETHPERP",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x770F4Df1DE337FF4dEE79C82E954eb6f70961e57",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xCE7760d0D9Ea15C7CCC06d2D76f34817e0d6bC1A",
 			"statusCode": 302
 		}
 	]

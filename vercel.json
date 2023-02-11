@@ -2147,7 +2147,7 @@
 		},
 		{
 			"source": "/goerli/FeePool",
-			"destination": "https://goerli.etherscan.io/address/0x9D9aAf3ED4E4A708834F148f9b9d0d12Ba0a8034",
+			"destination": "https://goerli.etherscan.io/address/0x73d7fC96547eECCb3121dA7c0661554BE3e49236",
 			"statusCode": 302
 		},
 		{
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"source": "/goerli/Issuer",
-			"destination": "https://goerli.etherscan.io/address/0x35a3F27736955394ee27Ce5348854670CE8D31DF",
+			"destination": "https://goerli.etherscan.io/address/0xA584bCE07004E17C246a7082aB680616853f3890",
 			"statusCode": 302
 		},
 		{
@@ -2477,7 +2477,7 @@
 		},
 		{
 			"source": "/goerli/ovm/FeePool",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x216B2767C7E28f26878e668a6a06d3C364dE0725",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x41B88d77A1C0Ea3cdcf44D69365399F4dCBab5B0",
 			"statusCode": 302
 		},
 		{
@@ -2527,7 +2527,7 @@
 		},
 		{
 			"source": "/goerli/ovm/Issuer",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x59bd355dd9A853b345434474341178DbC27dC7a6",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x7D1a0954CB643A506465b338A2DD414A10ABaBF3",
 			"statusCode": 302
 		},
 		{

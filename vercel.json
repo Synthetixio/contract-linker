@@ -17,7 +17,7 @@
 		},
 		{
 			"source": "/FeePool",
-			"destination": "https://etherscan.io/address/0x3B2f389AeE480238A49E3A9985cd6815370712eB",
+			"destination": "https://etherscan.io/address/0x83105D7CDd2fd9b8185BFF1cb56bB1595a618618",
 			"statusCode": 302
 		},
 		{
@@ -252,7 +252,7 @@
 		},
 		{
 			"source": "/Issuer",
-			"destination": "https://etherscan.io/address/0x5810Fc0E79F4323B2dd3c638914083Fd23a941C0",
+			"destination": "https://etherscan.io/address/0x2eb6860FAdC59910bF187965da8714d91F20f4dB",
 			"statusCode": 302
 		},
 		{
@@ -827,7 +827,7 @@
 		},
 		{
 			"source": "/ovm/FeePool",
-			"destination": "https://optimistic.etherscan.io/address/0xD3739A5F06747e148E716Dcb7147B9BA15b70fcc",
+			"destination": "https://optimistic.etherscan.io/address/0xf9FE3607e6d19D8dC690DD976061a91D4A0db30B",
 			"statusCode": 302
 		},
 		{
@@ -877,7 +877,7 @@
 		},
 		{
 			"source": "/ovm/Issuer",
-			"destination": "https://optimistic.etherscan.io/address/0x59B01789bF268C7C77451D02758621990bB50BBF",
+			"destination": "https://optimistic.etherscan.io/address/0x52c4612DBb84282332300A5cdAbA7acD7661a94B",
 			"statusCode": 302
 		},
 		{

@@ -2172,7 +2172,7 @@
 		},
 		{
 			"source": "/goerli/Synthetix",
-			"destination": "https://goerli.etherscan.io/address/0xFC0E6442fC16e1caf52baa31f8043D8BE78AEb0D",
+			"destination": "https://goerli.etherscan.io/address/0x391683f29453E86ABd9FBA3Ab0a883EF77F5ACbC",
 			"statusCode": 302
 		},
 		{
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"source": "/goerli/Issuer",
-			"destination": "https://goerli.etherscan.io/address/0xA584bCE07004E17C246a7082aB680616853f3890",
+			"destination": "https://goerli.etherscan.io/address/0x91112d49095Febf1616af25be7f32Cf580DBC7A3",
 			"statusCode": 302
 		},
 		{
@@ -2371,6 +2371,11 @@
 			"statusCode": 302
 		},
 		{
+			"source": "/goerli/DebtMigratorOnEthereum",
+			"destination": "https://goerli.etherscan.io/address/0xaD6E947573458E022EcDC48C267Da553c8cce567",
+			"statusCode": 302
+		},
+		{
 			"source": "/goerli/ovm/SafeDecimalMath",
 			"destination": "https://goerli-optimism.etherscan.io/address/0x6Bb3B18694A6849654379F040DcB112E07da9DC7",
 			"statusCode": 302
@@ -2502,7 +2507,7 @@
 		},
 		{
 			"source": "/goerli/ovm/Synthetix",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x8cF677281A8Ad57e0db4A8e6B57aE17211f97689",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xB8779a07186ae7555f96eb276925c5B5b7bE4096",
 			"statusCode": 302
 		},
 		{
@@ -2527,7 +2532,7 @@
 		},
 		{
 			"source": "/goerli/ovm/Issuer",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x7D1a0954CB643A506465b338A2DD414A10ABaBF3",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x42E3288434a04283C55C50D8f61056a955F3bbFA",
 			"statusCode": 302
 		},
 		{
@@ -3463,6 +3468,11 @@
 		{
 			"source": "/goerli/ovm/PerpsV2OffchainDelayedOrderGBPPERP",
 			"destination": "https://goerli-optimism.etherscan.io/address/0xe762dc242408530D37f1a57dbF627e7DE0eE8415",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/DebtMigratorOnOptimism",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x1a13e712Adc6Bf818DD128C2219CDE22920950fc",
 			"statusCode": 302
 		}
 	]

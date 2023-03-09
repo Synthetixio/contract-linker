@@ -2372,7 +2372,7 @@
 		},
 		{
 			"source": "/goerli/DebtMigratorOnEthereum",
-			"destination": "https://goerli.etherscan.io/address/0xDd09918E90eb48F48ca434a6e8EB34141f23be79",
+			"destination": "https://goerli.etherscan.io/address/0xC816673F1E9B42Af30632Ffbd9F483f29B61b767",
 			"statusCode": 302
 		},
 		{

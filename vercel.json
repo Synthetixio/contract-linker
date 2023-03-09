@@ -2172,7 +2172,7 @@
 		},
 		{
 			"source": "/goerli/Synthetix",
-			"destination": "https://goerli.etherscan.io/address/0x391683f29453E86ABd9FBA3Ab0a883EF77F5ACbC",
+			"destination": "https://goerli.etherscan.io/address/0x74Cc796Ab9B847574F0d66240810186e4ff0ddA7",
 			"statusCode": 302
 		},
 		{
@@ -2202,7 +2202,7 @@
 		},
 		{
 			"source": "/goerli/Issuer",
-			"destination": "https://goerli.etherscan.io/address/0x91112d49095Febf1616af25be7f32Cf580DBC7A3",
+			"destination": "https://goerli.etherscan.io/address/0x903c9FA8767F459e077062219E368D992F388d2d",
 			"statusCode": 302
 		},
 		{
@@ -2372,7 +2372,7 @@
 		},
 		{
 			"source": "/goerli/DebtMigratorOnEthereum",
-			"destination": "https://goerli.etherscan.io/address/0xaD6E947573458E022EcDC48C267Da553c8cce567",
+			"destination": "https://goerli.etherscan.io/address/0xDd09918E90eb48F48ca434a6e8EB34141f23be79",
 			"statusCode": 302
 		},
 		{
@@ -2507,7 +2507,7 @@
 		},
 		{
 			"source": "/goerli/ovm/Synthetix",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xB8779a07186ae7555f96eb276925c5B5b7bE4096",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xCAe990698AAA1929Ed3dCE882239AB5C2Be5C580",
 			"statusCode": 302
 		},
 		{
@@ -2532,7 +2532,7 @@
 		},
 		{
 			"source": "/goerli/ovm/Issuer",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x42E3288434a04283C55C50D8f61056a955F3bbFA",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xd88Ae718b51713a55BfebF8BB097935eD6fC7f38",
 			"statusCode": 302
 		},
 		{
@@ -3472,7 +3472,7 @@
 		},
 		{
 			"source": "/goerli/ovm/DebtMigratorOnOptimism",
-			"destination": "https://goerli-optimism.etherscan.io/address/0x1a13e712Adc6Bf818DD128C2219CDE22920950fc",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xF6D9Eb4B947481e209359f27b105219e28aAD12e",
 			"statusCode": 302
 		}
 	]

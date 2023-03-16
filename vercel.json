@@ -2372,7 +2372,7 @@
 		},
 		{
 			"source": "/goerli/DebtMigratorOnEthereum",
-			"destination": "https://goerli.etherscan.io/address/0xC816673F1E9B42Af30632Ffbd9F483f29B61b767",
+			"destination": "https://goerli.etherscan.io/address/0x7918C32F223A56c62719Fae762eac615DB2Fc0e6",
 			"statusCode": 302
 		},
 		{
@@ -3472,7 +3472,7 @@
 		},
 		{
 			"source": "/goerli/ovm/DebtMigratorOnOptimism",
-			"destination": "https://goerli-optimism.etherscan.io/address/0xF6D9Eb4B947481e209359f27b105219e28aAD12e",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3A2F7083C1617e4371bA723Bc27dED8A1Bd6AD90",
 			"statusCode": 302
 		}
 	]

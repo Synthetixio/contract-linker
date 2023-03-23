@@ -77,7 +77,7 @@
 		},
 		{
 			"source": "/Synthetix",
-			"destination": "https://etherscan.io/address/0x883A0E7b329Df75476d9378462522CF2f78Fab3d",
+			"destination": "https://etherscan.io/address/0xd0dA9cBeA9C3852C5d63A95F9ABCC4f6eA0F9032",
 			"statusCode": 302
 		},
 		{
@@ -252,7 +252,7 @@
 		},
 		{
 			"source": "/Issuer",
-			"destination": "https://etherscan.io/address/0x2eb6860FAdC59910bF187965da8714d91F20f4dB",
+			"destination": "https://etherscan.io/address/0xca68a3D663483515a9D434E854AB59A41b3A523c",
 			"statusCode": 302
 		},
 		{
@@ -626,6 +626,11 @@
 			"statusCode": 302
 		},
 		{
+			"source": "/DebtMigratorOnEthereum",
+			"destination": "https://etherscan.io/address/0x94f864e55c77E07C2C7BF7bFBc334b7a8123442A",
+			"statusCode": 302
+		},
+		{
 			"source": "/LUSDWrapper",
 			"destination": "https://etherscan.io/address/0x7c22547779c8aa41bae79e03e8383a0befbcecf0",
 			"statusCode": 302
@@ -852,7 +857,7 @@
 		},
 		{
 			"source": "/ovm/Synthetix",
-			"destination": "https://optimistic.etherscan.io/address/0x49B35BE7D96888C02F342552aB218d859599aCeb",
+			"destination": "https://optimistic.etherscan.io/address/0xfF5c26abD36078C768C40847672202eC343AC5ad",
 			"statusCode": 302
 		},
 		{
@@ -877,7 +882,7 @@
 		},
 		{
 			"source": "/ovm/Issuer",
-			"destination": "https://optimistic.etherscan.io/address/0x52c4612DBb84282332300A5cdAbA7acD7661a94B",
+			"destination": "https://optimistic.etherscan.io/address/0xEb66Fc1BFdF3284Cb0CA1dE57149dcf3cEFa5453",
 			"statusCode": 302
 		},
 		{
@@ -2008,6 +2013,11 @@
 		{
 			"source": "/ovm/PerpsV2OffchainDelayedOrderGBPPERP",
 			"destination": "https://optimistic.etherscan.io/address/0x0BB25623946960D8FB1696a9D70466766F2C8aa7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/DebtMigratorOnOptimism",
+			"destination": "https://optimistic.etherscan.io/address/0xA6bc30d854c2647574921c4AF442008DB7d32ad5",
 			"statusCode": 302
 		},
 		{

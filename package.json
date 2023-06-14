@@ -1,6 +1,6 @@
 {
 	"name": "synthetix-contracts",
-	"version": "2.90.0-alpha",
+	"version": "2.90.1",
 	"description": "Site to auto-redirect to the latest SNX contracts",
 	"main": "build.js",
 	"private": true,

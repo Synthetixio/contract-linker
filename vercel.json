@@ -5239,6 +5239,41 @@
 			"source": "/goerli/ovm/PerpsV2MarketViewsINJPERP",
 			"destination": "https://goerli-optimism.etherscan.io/address/0x7487DBFa722b331af636A99E2cdDA0913A7Ea1aa",
 			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxySTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x896dEc99176a0fc3160CB5796ADe25ACe8f2A7D4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateSTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xB9FbE7647dA76791b07285e5a082dB4B94b9E457",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketSTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xB2A4d1428238955De5764A6F15ad45bBF26A2646",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateSTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xF6ff2A7a89bEb9bCFF7d13458e289d159F4470ad",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentSTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xcf005fa0A75788c389401d7bD365398F1D214bFA",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionSTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x9502CeD8D03497C76db8eeE779aCaD98245aC945",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsSTETHPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xB74056a20c9b3a4429bbCD9a67962C17b1526A69",
+			"statusCode": 302
 		}
 	]
 }

@@ -5274,6 +5274,286 @@
 			"source": "/goerli/ovm/PerpsV2MarketViewsSTETHPERP",
 			"destination": "https://goerli-optimism.etherscan.io/address/0xB74056a20c9b3a4429bbCD9a67962C17b1526A69",
 			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x52636AfbA57448f4A4a17c2BD0D629F64735f0A1",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xBd4f399bF3712ffb5754A5997E2319031a47714A",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x61eFbc63dB1b6C1D5735A81D68E0EF5A4b2FAac8",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xD1c0C26c9C1823Feb9E31cb6E7Ff6952D37e5716",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc7F71e863A3973a90bf902dF1cfA13187BA14CB6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x07E01e6B2daF5a4e4C29B5Db93E313c97dfc3fdD",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsETHBTCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xb541A602D3a4BfA719B7c16369fFa134fAd4e244",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2FBB6cbe38889Dd11b7759C890079396e2e58334",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x934BD5cA82372b0F9EB056Fe9C5D1E075a1Ffc5D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x89987058946f4e3B9d949C68a25F05B769499f01",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x394863D88CEeb489c35EcF08e4E1BFc76Dc634d4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xA1429bD5CEF95C1cb02C08461d577Ac981411fEB",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xD0de49B654fB1b658D814B4a4Ec45940D324f910",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsETCPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3b11DAB2a0EAE40144DE750f41872CAb1409482B",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xA678885BcED8d184132eB35377b5D5927a41d597",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x7378c1d56274Dc83f69193e6707c22799ED33eE4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4D70F91572431Ef3D674F1d4Cd33C3B5F4Eb4b36",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x696ac05D758B7EdB9b8E2b291f6a0e08d3c42355",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xD7b63D474d0edb92b9576538Bf0D52e538b3e282",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x6BC62823A1865ec35a32BcBc045369592c9Ef584",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsCOMPPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x10DD43Dca38b0978Dff0784E286fA09bc3356824",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x91aE32606C8929769AFd54397F6515b9509f3EBa",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x64ea5527b76e5B77d2Dc90D220951BB43A56D081",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x8ed0F38D2634BF6B966f1D6125641c35d0206fd3",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3f2314B19718b7a995481f968C548AFc1310cc81",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x0F6629B6f9B7042796e5BC70796031D77f5d7776",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x2e4272cBC45B058ACdd8312a5704E67F36fBBE69",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsMKRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x5bd2FA198f0e4822f819E53c4e5342C357013C4c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x915074a4193A703e10fa73CE605F3773B2f522A0",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xfAC2072D19Dad763ba39378559164E3ad80DeCF6",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x30de915dC33E3370CC6ea07F8322824C615f958F",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4B9bd6756154B9180A8A99C4A9F7cf065D694B1e",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3F5f3c5F368964c031aeDa8639B8633797E2D5E9",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x5AA73c2c4D128729c904F40B6DcFDAEb39daB797",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsXMRPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xa4C3709247CD97dC132d7ad4a16ef908a4c9ce5D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xd2AB53d5D618c16801D4Dc018Dee8aE6B902BA01",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x92c5F7184ff19d6638b84F6E3C70BF420C886c87",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x147Fd7a1800CA6B839b461bCBF9FAfE712E780F5",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x3854060b596cb5497c0435Ef0d15CFd2F4Dd5d79",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x598ae876240201664FcF8AB0F860d0b7aCcc8797",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x777c231a5eA7A083Ea47e2A39E6cFC3C6c4D9bFF",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsYFIPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xc08177E25f2d178Ee3c458F9A7a4Fbc2D84620e4",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x5DedE7103b2205545aF09a6e243126D60801D14F",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x4d69878cF675501C413534C183A79d5c0f8ccA6c",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x00A9319aB61c3d7282195Fcc6e356d16aE8b4Cf5",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x80A0c2eccc0b35dCB0b8db8451277986B140b519",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x57EE68b6e78F10291a2Ae3bd3d48A3571892ED48",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xd31E717Ff18F8B9DEbCb947F1A6df32c2734112D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsMAVPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xcd5D152CAb9B91d5EE46f456df86D9BF8df4449a",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2ProxyRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x452D1e4960d330fDE2B5D7Ec94dCC52F0608D78e",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketStateRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x8666F40888a31F09d994A3ac8B5c3bc4d8934fb0",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xf3115ecCC270E3DEdE4837f9026DA33Bc8208819",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketLiquidateRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0xcec7E4F0D0582bE73AbF4775C0f9Ca9Ed6629FcE",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedIntentRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x246B410eB93c56cD2263585B492b5c043f6f0B5D",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2DelayedExecutionRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x168fF410A82FD5D9BA3f5f0bd34862DC95329096",
+			"statusCode": 302
+		},
+		{
+			"source": "/goerli/ovm/PerpsV2MarketViewsRPLPERP",
+			"destination": "https://goerli-optimism.etherscan.io/address/0x7E2282418f355f56986cC85270E87315633Dca93",
+			"statusCode": 302
 		}
 	]
 }

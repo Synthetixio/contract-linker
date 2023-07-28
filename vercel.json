@@ -2801,6 +2801,286 @@
 			"statusCode": 302
 		},
 		{
+			"source": "/ovm/PerpsV2ProxyETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xD5FcCd43205CEF11FbaF9b38dF15ADbe1B186869",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xd10cd91683301c8C15eDA40F59e73d1b0BcfECDD",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x3091AcaEAF27985F33a8a4b0EefEa49dc60c8506",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x0DAeA0367d7b82644C4db4D992cF4ba39c8A359C",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x978D4b5438D3E4EDf4f03682e5A53b48E56604c5",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xb16a8B06318C78c274f3BBc5CC5C9191B0d0c1A3",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsETHBTCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xe082Bd0Ac75c78196F312150A298ade27aebecB0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x4bF3C1Af0FaA689e3A808e6Ad7a8d89d07BB9EC7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x04412b2aE241C602Be87Bc1114238d50d08398Fb",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x79AE4AAC073c6f153644647Af14F202ca8cc39C5",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x86770a2940efF6a778768592B42A6668FfB162a4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xAD35498D97f3b1a0B99de42da7Ad81c91156BA77",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x98d601E04527a0acBB603BaD845D9b7B8840de1c",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsETCPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x4e8f55f1948D3E61A1FD3Cd38Ce05EFC77bffEb5",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xb7059Ed9950f2D9fDc0155fC0D79e63d4441e806",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xF8dBEf33111A37879f35EE15507769CA927cf9C0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xA154EcFFfb46380991751DE890956b245142e10C",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x6e7209c0dB7110fc5606BAAC492Ce4dEA2EFEd8e",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x6172289961007908442a0437891DcD966F368563",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x9f3be6Be18E8D0613f87c86A0b1875B74f404A11",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsCOMPPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xbaAcf0F9dEA6b17D8667a34b7f69f60591c8D68D",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x2ea06E73083f1b3314Fa090eaE4a5F70eb058F2e",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x3d869950817920Eda9fC9A633ab7F06B97444dd7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x51a8e343841eEd0439De080cDc5d96c4A8568860",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x5d79EeB57A35EC8b6b9Ef55052C5C9F919C3c3Ee",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x239847700D9134cEEAEC306DAA40b569CEe1D5a0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x926b1148DaFe298ff7Fdc2d01Ae1bC3Fa3b4FAE4",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsXMRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x90241392dbA7FAa1d1d96C6927f0FBfe93FdF226",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xf7d9Bd13F877171f6C7f93F71bdf8e380335dc12",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xf963a0fc0BFc38FEfE08C6062f2AD9A11AfFDEeb",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x0B08D567D1893D9e0B48E61d1f9Ecd9D7C6B11EE",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x740444afa4F5a7CD569A7714D5252A35DC1fE299",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xDEbC936c5aDfd1331E5fa4AE76DB7197283342d0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xE0d1A14EBC3bc4460fEeB67A45C8198063cCC7c7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsMKRPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xb1204d3fFfeaEa354f2f04779BEdcd0d8f3598fa",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x6940e7C6125a177b052C662189bb27692E88E9Cb",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x2107A107D1043b2c442b8de40d6696C29bD2c5b8",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x555a66ae81b447f3e4533A8159e2462D17A7e7c3",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x579e622B355Ac69A3a772d29A98379044CBF7722",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xf7AF14838789093ccD01c67cF9Bc5f602501cEd0",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x7aF6Be46f83d25902cfa49c9e16BEc54893f25cB",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsYFIPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x2a1Fa1Fbf771c353eBFe63472EBbB16444A9b0ef",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x572F816F21F56D47e4c4fA577837bd3f58088676",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xB241aF12256998A0051b93e02027e73CA7E5388d",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xeef768Df33e01bcd395612601569f4Ac5daf2363",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x7E62C949f55305C0679b4E883198f93Ac4D8e2e9",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x6A5A1E32216377FC03bFFdC9B33fe29c2f14Ec84",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xFc6895ff4756985BCa9df2AABB5f31651C591Bef",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsMAVPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x04915C122ebA1cd7629a2a00D9aE2a4C145aB21b",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2ProxyRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xfAD0835dAD2985b25ddab17eace356237589E5C7",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketStateRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xf606E99D6F6a003623eA5764dA119BAEcB2e8C99",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x89fE4828Bf24caFbE96F804885506A7111065541",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketLiquidateRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x15df53AEcF14f4525BE5F7Ac8240968CBF5bcAAf",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedIntentRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xc9c64cF6D1CE4b41D087F08EdAa9De23262f1EdA",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2DelayedExecutionRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0xF0671cF8a1a0b3308e84852308F9624B9eC2e28f",
+			"statusCode": 302
+		},
+		{
+			"source": "/ovm/PerpsV2MarketViewsRPLPERP",
+			"destination": "https://optimistic.etherscan.io/address/0x882e4a84Cbd9b55052c85e1FF05289aa577659B9",
+			"statusCode": 302
+		},
+		{
 			"source": "/ovm/WETHWrapper",
 			"destination": "https://optimistic.etherscan.io/address/0x6202a3b0be1d222971e93aab084c6e584c29db70",
 			"statusCode": 302

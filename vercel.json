@@ -4067,7 +4067,7 @@
 		},
 		{
 			"source": "/goerli/RewardsDistribution",
-			"destination": "https://goerli.etherscan.io/address/0x882eaF70e172b8543145811c5fE169d03740ba9a",
+			"destination": "https://goerli.etherscan.io/address/0x31E1080E7eb408ff005A9108f515CfcFEa6B7584",
 			"statusCode": 302
 		},
 		{

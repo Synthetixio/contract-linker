@@ -1231,21 +1231,6 @@
 			"statusCode": 302
 		},
 		{
-			"source": "/ovm/TokenStatesINR",
-			"destination": "https://optimistic.etherscan.io/address/0xfE33ae95A9f0DA8A845aF33516EDc240DCD711d6",
-			"statusCode": 302
-		},
-		{
-			"source": "/ovm/ProxysINR",
-			"destination": "https://optimistic.etherscan.io/address/0xa3A538EA5D5838dC32dde15946ccD74bDd5652fF",
-			"statusCode": 302
-		},
-		{
-			"source": "/ovm/SynthsINR",
-			"destination": "https://optimistic.etherscan.io/address/0x34c2360ffe5D21542f76e991FFD104f281D4B3fb",
-			"statusCode": 302
-		},
-		{
 			"source": "/ovm/FuturesMarketAPE",
 			"destination": "https://optimistic.etherscan.io/address/0xFe00395ec846240dc693e92AB2Dd720F94765Aa3",
 			"statusCode": 302

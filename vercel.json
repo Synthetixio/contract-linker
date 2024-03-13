@@ -77,7 +77,7 @@
 		},
 		{
 			"source": "/Synthetix",
-			"destination": "https://etherscan.io/address/0xd0dA9cBeA9C3852C5d63A95F9ABCC4f6eA0F9032",
+			"destination": "https://etherscan.io/address/0xd711709eFc452152B7ad11DbD01ed4B69c9421B3",
 			"statusCode": 302
 		},
 		{
@@ -402,7 +402,7 @@
 		},
 		{
 			"source": "/RewardEscrowV2",
-			"destination": "https://etherscan.io/address/0xAc86855865CbF31c8f9FBB68C749AD5Bd72802e3",
+			"destination": "https://etherscan.io/address/0xFAd53Cc9480634563E8ec71E8e693Ffd07981d38",
 			"statusCode": 302
 		},
 		{
@@ -797,7 +797,7 @@
 		},
 		{
 			"source": "/ovm/RewardEscrowV2",
-			"destination": "https://optimistic.etherscan.io/address/0x6330D5F08f51057F36F46d6751eCDc0c65Ef7E9e",
+			"destination": "https://optimistic.etherscan.io/address/0x5Fc9B8d2B7766f061bD84a41255fD1A76Fd1FAa2",
 			"statusCode": 302
 		},
 		{
@@ -857,7 +857,7 @@
 		},
 		{
 			"source": "/ovm/Synthetix",
-			"destination": "https://optimistic.etherscan.io/address/0xfF5c26abD36078C768C40847672202eC343AC5ad",
+			"destination": "https://optimistic.etherscan.io/address/0x5A41F634958dB9183e9d0d1Cd8Dee439B6ABb3BF",
 			"statusCode": 302
 		},
 		{
